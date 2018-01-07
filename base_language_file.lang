@@ -1,0 +1,1038 @@
+# BlazeandCave's Advancements Pack Language File
+ 
+# How to use: Name and descriptions of advancement to left of =, and put translation to right of =.
+# Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+
+# This file will be updated with new advancements with each new update.
+# Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+
+# Language:
+# Author:
+# Pack version supported: 1.3.1
+
+# All language entries are organised in alphabetical order of file name as of 1.3
+# All new advancements added in updates later than 1.3 will be put at the bottom of the file for easy locating and adding by translators
+
+# Adventuring tab as of 1.3
+Adventuring Time=
+Discover every biome=
+
+Boaty McBoatface=
+Craft a boat for sailing on the high seas=
+
+Hired Help=
+Summon an Iron Golem to help defend a village=
+
+Cold Feet=
+Discover every cold biome=
+
+Disc Jockey=
+Collect all 12 music discs=
+
+Do You Want to Trade?=
+Find an NPC village=
+
+Dry Spell=
+Dry a sponge in a furnace=
+
+Filthy Rich=
+Make 64 emeralds=
+
+Filthy Stinkin' Rich=
+Make 64 emerald blocks=
+
+Flower Power=
+Collect all types of flowers=
+
+Ghostbuster!=
+Bust a Vex summoned by an Evoker=
+
+Grave Robber=
+Enter a pyramid in a desert=
+
+Heeere's Johnny!=
+Kill a Vindicator=
+
+House of Psychos=
+Find a Woodland Mansion=
+
+I hereby dub thee...=
+Obtain a name tag=
+
+Just Keep Swimming=
+Go for a swim=
+
+Kilometre Walk=
+It's not that far in real life=
+
+Laser Sharks!=
+Defeat a Guardian=
+
+Magic Book=
+Trade for an Enchanted Book=
+
+Mapmaker=
+Craft or trade an empty map=
+
+Monumental=
+Find an Ocean Monument=
+
+Music To My Ears=
+Find a music disc=
+
+One with the forest=
+Discover every forest biome=
+
+Overgrown!=
+Discover every overgrown biome=
+
+Overpowered=
+Obtain a Notch Apple=
+
+Postmortal=
+Use a Totem of Undying to cheat death=
+
+Adventure=
+Adventure and exploration=
+
+Snow Feet=
+Discover every snowy biome=
+
+Spear Fishing=
+Kill a Guardian with arrows=
+
+Tarzan=
+Swing (or climb) on some vines=
+
+Ten Thousand Blocks=
+A journey that long begins with a single step=
+
+The Deep End=
+Defeat an Elder Guardian=
+
+The Shielding=
+A shield does no better than a locked door=
+
+This is Mine Now!=
+Find an abandoned mineshaft that was not dug out by you=
+
+Tomb Raider=
+Enter a jungle temple=
+
+Treasure Map=
+Trade for an Explorer Map=
+
+Voyage=
+A hundred kilometres!=
+
+Warm Feet=
+Discover every dry biome=
+
+Wet Feet=
+Discover every water biome=
+
+What a Deal!=
+Successfully trade with a Villager=
+
+Witchcraft=
+Find a witch hut in a swamp=
+
+Wololo!=
+Defeat an Evoker=
+
+
+
+# Building tab as of 1.3
+A Masterpiece!=
+Put up a painting=
+
+Ah, My Old Enemy...=
+Craft every type of stairs=
+
+Benchmarking=
+Construct a crafting bench with four wooden planks=
+
+Bricks!=
+Fire up that clay!=
+
+Change of Sheets=
+Dye your bed a different color than white=
+
+Classy Glassy=
+Smelt sand in a furnace to get glass=
+
+Clay-Dough!=
+Dig up some clay from a lake=
+
+Concrete Evidence=
+Create concrete from concrete powder by dropping it into water=
+
+Creepers and Withers=
+Engrave sandstone with creeper and wither patterns=
+
+Display your items for all to see...=
+Craft an item frame for displaying your items=
+
+Electric!=
+Light up the area with some redstone lamps=
+
+En Garde=
+Erect some fencing=
+
+Expensive!=
+Light up the area with some sea lanterns=
+
+Fake fortress=
+Craft or collect all forms of nether brick, red nether brick, and nether wart blocks=
+
+Fake monument=
+Craft or collect all forms of prismarine blocks=
+
+Fake stronghold=
+Craft or collect normal, cracked, mossy and chiseled stone bricks=
+
+Fluorescent!=
+Light up the area with some end rods=
+
+Getting Wood=
+Attack a tree until a block of wood pops out=
+
+Glowing!=
+Light up the area with glowstone=
+
+Greek Art Decor=
+Craft quartz blocks, stairs, slabs, pillars and chiseled=
+
+Halloween!=
+Light up the area with jack o'lanterns!=
+
+It's a Sign!=
+Craft and place a sign=
+
+It's a Trap!=
+Craft and place down a trapdoor=
+
+Jailhouse Block=
+Craft or find iron bars=
+
+Ladder Climbers Inc.=
+Climb the ladder!=
+
+Mannequin=
+Craft an armor stand for displaying your armor=
+
+Master Logger=
+Cut down a full stack of logs of all types=
+
+Pathways=
+Use a shovel to create grass paths=
+
+Pot Planter=
+Craft and place a flower pot=
+
+Rainbow Sand=
+Craft concrete powder using sand, gravel and dye=
+
+Raise the flag!=
+Craft and place a banner=
+
+Rock Collection=
+Collect all the types of rocks=
+
+Building=
+Your only limit is your imagination... and resources=
+
+Slabs For Days=
+Craft every type of slab=
+
+Stationary Storage=
+Craft and place down a chest for storing your items=
+
+Sweet dreams=
+Change your respawn point=
+
+The Glazed Terracotta Army=
+Craft all 16 colors of glazed terracotta=
+
+The Rainbow You Always Wanted=
+Craft all 16 colors of concrete=
+
+The Terracotta Army=
+Craft all 16 colors of terracotta (stained clay)=
+
+The Walls=
+Build some cobblestone walls=
+
+Torched!=
+Light up the area with some torches=
+
+Translucence=
+Craft all 16 colors of stained glass=
+
+What a pane=
+Craft some glass panes=
+
+Yay! I got my wood!=
+Collect all six types of wood=
+
+Your Door Was Locked=
+Craft a door to stop monsters from entering your house=
+
+
+
+# Combat tab as of 1.3
+Blast Shield=
+Survive a creeper's blast with your shield=
+
+Bombs Away!=
+Use gunpowder and sand to craft TNT=
+
+Bow Spammer=
+Attack a mob by bow-spamming=
+
+Creepy Heads=
+Blow up a creeper with a charged creeper to get a creeper head=
+
+Dead Don't Die=
+Kill a zombie=
+
+Desert Nomad=
+Kill a husk=
+
+Dungeon Crawler=
+Defeat all kinds of mobs from special structures=
+
+Egging, Dude!=
+Vandalise something with eggs=
+
+Ender Worm=
+Prevent an endermite from maturing=
+
+Eskimo=
+It may be illegal to hunt polar bears in real life, but not in Minecraft=
+
+Ew Ew Ew!=
+Kill a spider=
+
+Fireworks Display=
+Use gunpowder and paper to craft fireworks=
+
+Frosty=
+Kill a stray=
+
+Gelatinous Cube=
+Kill a slime=
+
+Hell Hunter=
+Defeat all kinds of Nether mobs=
+
+Iron Belly=
+Stop starvation using rotten flesh=
+
+Leader of the Pack=
+Befriend a wolf=
+
+Keep Your Distance=
+Kill a Creeper with arrows=
+
+Monster Hunter=
+Kill any hostile monster=
+
+Monsters Hunted=
+Kill one of every hostile monster=
+
+Night Runner=
+Defeat all kinds of Overworld night mobs=
+
+Not Today, Thank You=
+Deflect an arrow with a shield=
+
+Plane Walker=
+Kill endermen in all three dimensions=
+
+Point Blank=
+Shoot a mob from point-blank range=
+
+Poisonous Ew=
+Kill a cave spider=
+
+Combat=
+Battle against the monsters of this world=
+
+Sniper Duel=
+Kill a skeleton with an arrow from more than 50 meters=
+
+Snowball Fight=
+The spirit of Christmas... quickly drowned out by a battle=
+
+Spooky Skeleton=
+Kill a skeleton=
+
+Spooky Skulls=
+Blow up a skeleton with a charged creeper to get a skeleton skull=
+
+Still Talking!=
+Blow up a zombie with a charged creeper to get a zombie head=
+
+Take Aim=
+Shoot something with a bow and arrow=
+
+Taste of your own medicine=
+Kill a witch with a splash potion=
+
+Tele-Morph=
+Damage a mob by teleporting into it=
+
+Termite Control=
+Kill a silverfish=
+
+The ender of ender=
+Kill an enderman=
+
+The Ghastly Eyes=
+Kill an invisible spider=
+
+The Mighty Hunter=
+Hunt all types of animals with your bow=
+
+The Undead Cavalry=
+Encounter and defeat a skeleton horse in a thunderstorm=
+
+There has to be another way...=
+Kill a zombie villager=
+
+Trampoline=
+Craft a slime block using slimeballs=
+
+Void Ender=
+Defeat all kinds of End mobs=
+
+What a creep!=
+Kill a creeper=
+
+Witch!=
+Kill a witch=
+
+
+
+# Enchanting tab as of 1.3
+Armor for the masses=
+Obtain every protection related enchantment=
+
+Bane of one-shotting spiders=
+Obtain Bane of Arthropods V=
+
+Bow down to me!=
+Obtain Power V=
+
+Complete Enchanter=
+Obtain every enchantment throughout your enchanting career=
+
+Curses!=
+Obtain both types of curses=
+
+Fiery=
+Obtain every fire related enchantment=
+
+Fortunate Son=
+Obtain Fortune III=
+
+Knocking Your Socks Off=
+Obtain Knockback and Punch enchantments=
+
+Let It Go!=
+Obtain boots enchanted with Frost Walker=
+
+Librarian=
+Build some bookshelves for your enchanting table=
+
+Like a Cat=
+Obtain boots enchanted with Feather Falling=
+
+Master Armorer=
+Create a perfect suit of armor=
+
+Master Enchanter=
+Obtain every enchantment at their max level throughout your enchanting career=
+
+Master Fisher=
+Create a perfect fishing rod=
+
+Master Knight=
+Create a perfect sword=
+
+Master Miner=
+Create a perfect pickaxe=
+
+Master Sniper=
+Create a perfect bow=
+
+Needle Sharp=
+Obtain Sharpness V=
+
+Heavy Metal=
+Craft an anvil=
+
+Overkill=
+Deal eight hearts of damage in a single blow=
+
+Pick Like Silk=
+Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block=
+
+Enchanting=
+Enchant items to give them magical abilities=
+
+Scuba Gear=
+Obtain every water related enchantment=
+
+Super Efficient=
+Obtain Efficiency V=
+
+Unbreakable=
+Obtain Mending on an item=
+
+Undead Slayer=
+Obtain Smite V=
+
+
+
+# End tab as of 1.3
+Anti-Gravity Generator=
+Bring a shulker into the overworld and let it give you anti-gravity=
+
+Cow Jumped Over The Moon=
+Bring a cow from the Overworld to the End and then kill it=
+
+Dragon Shield=
+Attempt to block the dragon's attacks=
+
+End Bricks!=
+Craft end bricks from end stone=
+
+For Mother, Clarence=
+Kill a shulker=
+
+Free the End=
+Good luck=
+
+Getting Chorus=
+Attack a chorus tree until it collapses=
+
+Great View From Up Here=
+Levitate up a distance of 50 metres=
+
+I'm Coming Back, Murph!=
+Travel far into the End dimension=
+
+No! Don't let me leave, Murph!=
+Travel so far into the End dimension you might as well be on another planet=
+
+Noxious Fumes=
+Use dragon's breath to brew a lingering potion=
+
+Off With His Head!=
+Collect a dragon's head from the bow of an end ship=
+
+Poison Dart=
+Craft tipped arrows of poison=
+
+Portable Storage=
+Use shulker shells to craft a shulker box=
+
+Purpurfect!=
+Craft or collect purpur blocks, slabs, pillars and stairs=
+
+Remote Getaway=
+Escape the island=
+
+The End=
+Or the beginning?=
+
+Shouldn't my shield levitate too?=
+Block a Shulker's bullet with your shield=
+
+Sky High=
+Fly up beyond the world height limit=
+
+Sky's the Limit=
+Find an Elytra=
+
+Some Breakthrough=
+Exhaust your elytra=
+
+The City at the End of the Game=
+Go on in, what could happen?=
+
+The End... Again=
+Respawn the Ender Dragon=
+
+The Next Generation=
+Hold the Dragon Egg=
+
+The Start of Something=
+Craft your first ender crystal=
+
+Uh, Houston? We have a problem=
+Fly up to a ridiculous height=
+
+You Need a Mint=
+Collect dragon's breath in a glass bottle=
+
+
+
+# Farming tab as of 1.3
+24 Carrot Gold=
+Eat a golden carrot=
+
+A Balanced Diet=
+Eat everything that is edible, even if it's not good for you=
+
+A Horse in Shining Armor=
+Find diamond horse armor=
+
+A Seedy Place=
+Plant a seed and watch it grow=
+
+Artificial Selection=
+Breed a horse and a donkey to get a mule=
+
+Bake Bread=
+Grow wheat and use it to bake bread=
+
+Bapple!=
+Crunch into an apple=
+
+Blistering Barnacles!=
+Get spat at by a llama=
+
+Breaking the Law of Conservation of Matter=
+Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back=
+
+Care For the Environment=
+Plant down a sapling=
+
+Catching Nemo=
+Catch a clownfish=
+
+Chatterbox=
+Tame a Parrot using seeds. WARNING: Do not use a cookie!=
+
+Cow Tipper=
+Harvest some leather=
+
+Cowboy=
+Tame a horse by jumping on it over and over again=
+
+Delicious Fish=
+Craft a fishing rod and use it to catch a fish=
+
+Die, Potato!=
+Squash and eat a potato=
+
+Do you want to build a snowman?=
+Use a pumpkin and snow blocks to build a snow golem=
+
+Ecologist=
+Plant down all six types of sapling=
+
+Feeling Sheepish=
+You'll get over it=
+
+Getting Into a Stew=
+Make and eat some rabbit stew=
+
+Have a Shearful Day=
+Use two iron ingots to craft shears=
+
+High Steaks=
+The steaks are high for this advancement!=
+
+Hot Topic=
+Construct a furnace out of eight stone blocks=
+
+Lion Tamer=
+Tame an Ocelot using fish=
+
+Me Love Cookie=
+Bake some cookies... and then scoff them all yourself=
+
+Meat Lovers=
+Eat every type of meat, even if uncooked or rotten=
+
+Milk does your body good=
+Take a swig swig swig swig=
+
+Mushroom, Mushroom, Mushroom, Mushroom!=
+Slurp some mushroom stew=
+
+Naturally Carved=
+Harvest some spooky pumpkins=
+
+Not Today!=
+Eat a poisonous potato=
+
+Overpopulation=
+Breed every type of animal=
+
+Pork Chop=
+You know kung fu, how about pork chop?=
+
+Rabbit Season=
+Killing bunnies is cruel. Period.=
+
+Rainbow Collection=
+Gather all 16 colors of wool=
+
+Renewable Energy=
+Smelt wood trunks using charcoal to make more charcoal=
+
+Repopulation=
+Breed two cows with wheat=
+
+Farming=
+The world is full of friends and food=
+
+Salmonella Poisoning=
+Eat some raw salmon... and not get poisoned after all=
+
+Serious Dedication=
+Completely use up a diamond hoe, and then reevaluate your life choices=
+
+So Good=
+Can't beat it, can't beat it=
+
+Souperman=
+Beetroot soup gives you souperpowers!=
+
+Sugar, Sugar=
+Harvest some sugar cane from a river or ocean=
+
+Sushi=
+Eat some raw fish=
+
+The Lie=
+Wheat, sugar, milk and eggs!=
+
+The Melon! The Melon! The Melon!=
+Eat a melon. Be careful not to drop it over a cliff=
+
+The Pie=
+Bake a pumpkin pie=
+
+Trimming the Treetops=
+Use shears to obtain leaf blocks=
+
+Ultra Hardcore=
+Craft and eat a normal golden apple=
+
+Vegetarian=
+Eat every type of fruit, vegetables, and any sort of plant matter=
+
+When Pigs Used to Fly=
+Craft a carrot on a stick so you can ride a pig off a cliff=
+
+You Lead, I'll Follow=
+Craft a lead for forming a llama caravan=
+
+
+
+# Mining tab as of 1.3
+Acquire Hardware=
+Smelt an iron ingot=
+
+Bling Bling Gone=
+Completely use up a golden pickaxe, and then seriously reevaluate your life choices=
+
+Coal Miner=
+Mine a stack of coal=
+
+Fuel Engine=
+Craft a powered minecart=
+
+Cover Me With Diamonds=
+Diamond armor saves lives=
+
+Diamond Clad=
+A full suit of diamond armor saves even more lives=
+
+Diamond Miner=
+Mine a stack of diamonds. Good luck!=
+
+Diamonds!=
+Acquire diamonds=
+
+Electric Rails=
+Making furnace minecarts completely useless=
+
+Enchanter=
+Craft an enchanting table=
+
+Even MOAR Tools=
+Craft a full diamond tools set=
+
+Fossil Fuel=
+Coal! As in dead dinosaurs!=
+
+Getting an Upgrade=
+Construct a better pickaxe=
+
+Gold Miner=
+Mine a stack of gold ore=
+
+Gold Rush=
+Strike gold and smelt it into a gold ingot=
+
+Hot Stuff=
+Fill a bucket with lava=
+
+Ice Bucket Challenge=
+Form and mine a block of Obsidian=
+
+Iron Man=
+Craft a full suit of iron armor=
+
+Iron Miner=
+Mine a stack of iron ore=
+
+Isn't It Iron Pick=
+Upgrade your pickaxe=
+
+Lapis Lazuli Miner=
+Mine enough lapis lazuli to craft a stack of lapis lazuli blocks=
+
+Mineral Collection=
+Craft every type of mineral block=
+
+MOAR Tools=
+Craft a stone pickaxe, axe, shovel and hoe=
+
+Aww it broke!=
+Break your first tool=
+
+On A Rail=
+Craft a minecart using five iron ingots=
+
+Redstone Miner=
+Mine enough redstone to craft a stack of redstone blocks=
+
+Mining=
+Dig underground, gather resources=
+
+Seeing Red=
+Mine some redstone from the deepest caves=
+
+Suit Up=
+Protect yourself with a piece of iron armor=
+
+The way to spawn=
+Craft a compass in case you forgot where spawn is=
+
+DIAM- oh, wait, no.=
+It's still useful for enchanting=
+
+We Need to Go Deeper=
+Build, light and enter a Nether Portal=
+
+We've broken our last shovel=
+Break all five types of shovels=
+
+What's the time, Mr Wolf?=
+Time to clean your clocks! (Or, craft them!)=
+
+
+
+# Nether tab as of 1.3
+A Terrible Fortress=
+Break your way into a Nether Fortress=
+
+Basis of Brewing=
+Harvest some nether wart from a nether fortress=
+
+Beaconator=
+Bring a beacon to full power=
+
+Bring Home the Beacon=
+Construct and place a Beacon=
+
+Don't Step on it!=
+Mine some magma blocks=
+
+Ender's Chest=
+Craft an ender chest for some extra inventory space=
+
+Eye Spy=
+Follow an Ender Eye=
+
+Fire Blast Shield=
+Block the explosion of a ghast's fireball=
+
+Giant Floating Jellyfish=
+Shoot down a ghast=
+
+Glows in the Dark=
+Craft spectral arrows using glowstone dust=
+
+High Temperature Fluid Monster=
+Kill a magma cube=
+
+Into Fire=
+Relieve a Blaze of its rod=
+
+Limbo Walker=
+Get above the roof in the nether=
+
+Local Brewery=
+Craft a Brewing Stand for brewing potions=
+
+Quicksand=
+You sink like quicksand and move slow like mud=
+
+Return to Sender=
+Destroy a Ghast with its fireball=
+
+Nether=
+Bring summer clothes=
+
+Spooky Scary Skeleton=
+Obtain a wither skeleton's skull=
+
+Subspace Bubble=
+Use the Nether to travel 7km in the Overworld=
+
+The End?=
+Enter the End Portal=
+
+The Hunt Begins=
+Kill a wither skeleton=
+
+The Nether's Shield=
+Block some blaze fireballs=
+
+The Tribal Snouts=
+Kill a zombie pigman=
+
+Uneasy Alliance=
+Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it=
+
+Withering Heights=
+Summon the Wither=
+
+
+
+# Potions tab as of 1.3
+A Furious Cocktail=
+Have every potion effect applied at the same time=
+
+A Much More Doable Challenge=
+Get all the effects possible during your life (not all at the same time)=
+
+A Weak Brew=
+Brew up a potion of Weakness=
+
+Death by Magic=
+Kill a mob with a splash potion=
+
+Hopping Mad=
+Get jump boost from a beacon or a potion=
+
+How did We Get Here?=
+Have every effect applied at the same time=
+
+Hyper-Healing=
+Brew and drink a regeneration potion=
+
+Medic!=
+Brew a healing potion=
+
+Marine Marauder=
+Catch a pufferfish and use it to brew a water breathing potion=
+
+Nocturnal=
+Brew and drink a night vision potion=
+
+Performance-Enhancing Drugs=
+Brew a Speed Potion for cheating on athletics=
+
+Potions=
+Brewing potions with helpful and hindering effects=
+
+Stayin' Frosty=
+Drink a fire resistance potion so you can go swimming in lava=
+
+Super Strength=
+Brew a Strength Potion for cheating on weightlifting=
+
+The Invisible Player=
+Brew and drink an invisibility potion=
+
+Zombie Doctor=
+Cure a zombie villager=
+
+
+
+# Redstone tab as of 1.3
+Bling Plate=
+Dine in style! (No, not really)=
+
+Comparing Comparator=
+Craft a redstone comparator=
+
+Dispense With This=
+Construct a dispenser=
+
+Metal Plate=
+Dinner time!=
+
+Moving Parts=
+Craft a piston so you can push things=
+
+Mozart=
+Craft a note block=
+
+Observer Buddy=
+Craft an observer=
+
+Pressure Detector=
+Use a pressure plate to craft a detector rail=
+
+Quartz Miner=
+Mine enough nether quartz to craft a stack of quartz blocks=
+
+Quirky Quartz=
+Mine Nether Quartz from the Nether=
+
+Repeating Repeater=
+Craft a redstone repeater for delaying signals=
+
+Redstone=
+Cracking contraptions=
+
+Solar Power=
+Craft a daylight sensor=
+
+Space Dropper=
+Craft a dropper for item transportation=
+
+Space Hopper=
+Craft a hopper for item transportation=
+
+Sticky Parts=
+Craft a sticky piston so you can pull things=
+
+Tripping Over=
+Craft a tripwire hook for your traps=
+
+Troll Chest=
+Craft a trapped chest to troll your friends=
+
+Under Pressure=
+Craft a pressure plate=
+
+
+
+# All advancements that get added in versions 1.4 or later will be added down here for easy locating by translators who wish to update their language file
+
+
+
+
+

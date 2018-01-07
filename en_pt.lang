@@ -1,0 +1,1038 @@
+# BlazeandCave's Advancements Pack Language File
+ 
+# How to use: Name and descriptions of advancement to left of =, and put translation to right of =.
+# Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+
+# This file will be updated with new advancements with each new update.
+# Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+
+# Language: Pirate Speak (Pirate)
+# Author: Cavinator1
+# Pack version supported: 1.3.1
+
+# All language entries are organised in alphabetical order of file name as of 1.3
+# All new advancements added in updates later than 1.3 will be put at the bottom of the file for easy locating and adding by translators
+
+# Adventuring tab as of 1.3
+Adventuring Time=Seafarer's Quest
+Discover every biome=Sail to all tha' lands
+
+Boaty McBoatface=Settin' Sail
+Craft a boat for sailing on the high seas=Arr, begin ye seafarin' voyage!
+
+Hired Help=Paid Mercenary
+Summon an Iron Golem to help defend a village=Hire a mystical creature out o' steel to defend a stronghold of those scurvy landlubbers
+
+Cold Feet=Shiver me timbers!
+Discover every cold biome=Sail to all tha' cold lands
+
+Disc Jockey=Endless shanty
+Collect all 12 music discs=Sing all tha' shanties
+
+Do You Want to Trade?=Thar be landlubbers!
+Find an NPC village=Sail to a landlubber's stronghold
+
+Dry Spell=Dry Spell
+Dry a sponge in a furnace=Dry a watery sponge in an oven
+
+Filthy Rich=Filthy Rich
+Make 64 emeralds=Make 64 emeralds
+
+Filthy Stinkin' Rich=Filthy Stinkin' Rich
+Make 64 emerald blocks=Make 64 chunks o' emerald
+
+Flower Power=Bouquet f' t' gals
+Collect all types of flowers=Pick ye some flowers fer that sweet young thing
+
+Ghostbuster!=Nagger wagger!
+Bust a Vex summoned by an Evoker=Slaughter ye Naggers!
+
+Grave Robber=Ancient Desert Booty!
+Enter a pyramid in a desert=Find ye an ancient desert building!
+
+Heeere's Johnny!=Heeere's Evil Wizard Servants!
+Kill a Vindicator=Slaughter ye Servants!
+
+House of Psychos=Land ship
+Find a Woodland Mansion=Moor against a land ship
+
+I hereby dub thee...=Name yer mate
+Obtain a name tag=Get ye a thing t' name yer mate
+
+Just Keep Swimming=Walk the plank!
+Go for a swim=That'll teach ye a lesson!
+
+Kilometre Walk=Nautical Mile
+It's not that far in real life=Sail yer first nautical mile!
+
+Laser Sharks!=Sea Lurkers!
+Defeat a Guardian=Slaughter ye Sea Lurkers!
+
+Magic Book=Magic Book
+Trade for an Enchanted Book=Haggle wit' t' landlubbers fer a magic book!
+
+Mapmaker=Yer own map!
+Craft or trade an empty map=Make yerself a treasure map so ye can find yer treasure again!
+
+Monumental=Davy Jones' Locker!
+Find an Ocean Monument=Enter Davy Jones' Locker without dying!
+
+Music To My Ears=Shanty!
+Find a music disc=Sing a shanty to the crew
+
+One with the forest=Forest Lands
+Discover every forest biome=Sail to all tha' forest lands
+
+Overgrown!=Overgrown!
+Discover every overgrown biome=Sail to all tha' overgrown lands
+
+Overpowered=A True Pirate
+Obtain a Notch Apple=Get ye a better Eden's apple
+
+Postmortal=Escape the locker
+Use a Totem of Undying to cheat death=Use yer Jewel of Life to escape Davy Jones' locker
+
+Adventure=Plunderin' Forbid
+Adventure and exploration=Sailing, treasure and pirates
+
+Snow Feet=Slush Feet
+Discover every snowy biome=Sail to all tha' snow lands
+
+Spear Fishing=Deadshot Fishing
+Kill a Guardian with arrows=Shoot ye a Sea Lurker
+
+Tarzan=Swingers
+Swing (or climb) on some vines=Don't get ye too addicted, ye not a landlubber!
+
+Ten Thousand Blocks=One of the seven seas!
+A journey that long begins with a single step=Sail one o' tha seas
+
+The Deep End=Great Sea Lurker!
+Defeat an Elder Guardian=Defeat the Great Sea Lurker within Davy Jones' locker
+
+The Shielding=Abandon ship!
+A shield does no better than a locked door=Ye servants be breakin' through tha targe!
+
+This is Mine Now!=This is mine now!
+Find an abandoned mineshaft that was not dug out by you=Find ye a cave another pirate went to before
+
+Tomb Raider=Jungle Booty!
+Enter a jungle temple=Find ye an ancient jungle building!
+
+Treasure Map=Treasure Map
+Trade for an Explorer Map=Barter wit' tha landlubbers for a treasure map
+
+Voyage=The seven seas!
+A hundred kilometres!=Sail tha seven seas!
+
+Warm Feet=Hot Feet
+Discover every dry biome=Sail to all tha' hot lands
+
+Wet Feet=Sea Legs
+Discover every water biome=Sail around tha' seas a lot!
+
+What a Deal!=Totally not worth it!
+Successfully trade with a Villager=Sell yer precious gold to one of these scurvy landlubbers
+
+Witchcraft=Wizardry
+Find a witch hut in a swamp=Moor against a wizard's boat
+
+Wololo!=Wololo!
+Defeat an Evoker=Defeat the evil wizard!
+
+
+
+# Building tab as of 1.3
+A Masterpiece!=Paintin'
+Put up a painting=Arr, could prob'ly sell it to tha landlubbers...
+
+Ah, My Old Enemy...=Pirates don't get Kung Fu Panda references
+Craft every type of stairs=Craft all tha stairs!
+
+Benchmarking=Make yerself a Craftin' Table
+Construct a crafting bench with four wooden planks=Make yerself a workbench wit' four blocks o' timber
+
+Bricks!=Bricks o' Clay
+Fire up that clay!=Fire up ye clay!
+
+Change of Sheets=Fancy bunk!
+Dye your bed a different color than white=Craft another bunk color!
+
+Classy Glassy=Seeing Object
+Smelt sand in a furnace to get glass=Smelt yerself a seein' object!
+
+Clay-Dough!=Stuff o' Shapin'
+Dig up some clay from a lake=Dig up some clay from the salty brine
+
+Concrete Evidence=Cement me opinions!
+Create concrete from concrete powder by dropping it into water=Make cement from cement dusts in tha water
+
+Creepers and Withers=Creepers and Withers
+Engrave sandstone with creeper and wither patterns=Carve yerself some stone of sands
+
+Display your items for all to see...=Magic Window!
+Craft an item frame for displaying your items=Craft a magic window!
+
+Electric!=Redstone Lanterrrn
+Light up the area with some redstone lamps=Use ye some fancy new-fangled industrial revolution lanterrrns!
+
+En Garde=Picket fencing!
+Erect some fencing=Erect ye a picket!
+
+Expensive!=Lantern o' tha Sea
+Light up the area with some sea lanterns=Use ye a lantern o' tha Sea!
+
+Fake fortress=Fake Devil's Palace
+Craft or collect all forms of nether brick, red nether brick, and nether wart blocks=Make ye all tha' Nether Brick, Bloody Brick, Hell's Wart!
+
+Fake monument=Fake Davy Jones' Locker!
+Craft or collect all forms of prismarine blocks=Make ye all tha' sea crystals!
+
+Fake stronghold=Fake stronghold
+Craft or collect normal, cracked, mossy and chiseled stone bricks=Make ye all tha' bricks o' stone!
+
+Fluorescent!=End wand
+Light up the area with some end rods=Use ye an End Wand!
+
+Getting Wood=Plunder Tree
+Attack a tree until a block of wood pops out=Hit a tree w' yer fist till timber falls
+
+Glowing!=Glowing!
+Light up the area with glowstone=Use ye glowstone!
+
+Greek Art Decor=White rock!
+Craft quartz blocks, stairs, slabs, pillars and chiseled=Make ye all tha' white rock!
+
+Halloween!=Why can't ye pronounce Halloween right?
+Light up the area with jack o'lanterns!=Use ye Jack o'Lanterns!
+
+It's a Sign!=It's a plate fulla letters!
+Craft and place a sign=Make ye that and place it down!
+
+It's a Trap!=Pirates don't get Star Wars references
+Craft and place down a trapdoor=Make ye a hatch o' timber
+
+Jailhouse Block=Bars o' the Ponton
+Craft or find iron bars=Make ye some iron bars for ye hostages!
+
+Ladder Climbers Inc.=Riggin'
+Climb the ladder!=Climb the riggin'!
+
+Mannequin=Stand o' Armor
+Craft an armor stand for displaying your armor=Hang up yer pirate clothes!
+
+Master Logger=Master Landlubber
+Cut down a full stack of logs of all types=What ye be doin' cuttin' timber, ye landlubber?
+
+Pathways=Trodden
+Use a shovel to create grass paths=Use ye spade to trodden up ye path
+
+Pot Planter=Dirt vase
+Craft and place a flower pot=Use bricks to make ye a vase
+
+Rainbow Sand=Rainbow cement
+Craft concrete powder using sand, gravel and dye=Make ye cement dusts wit' sand and rubble!
+
+Raise the flag!=Raise the flag!
+Craft and place a banner=Make ye a Jolly Roger!
+
+Rock Collection=Pebble collection
+Collect all the types of rocks=Dig up all the pebbles!
+
+Building=Ship designin'
+Your only limit is your imagination... and resources=Design yer ship fer ye adventures!
+
+Slabs For Days=Cut tha' blocks in half!
+Craft every type of slab=Do that to all tha' blocks!
+
+Stationary Storage=Treasure chest!
+Craft and place down a chest for storing your items=Now find ye a good place to bury it!
+
+Sweet dreams=Golden Dreams
+Change your respawn point=Tell Davy Jones where to free you
+
+The Glazed Terracotta Army=Pricey Mosaics
+Craft all 16 colors of glazed terracotta=What would you want with pricey mosaics?
+
+The Rainbow You Always Wanted=I'm not a Lol-Cat!
+Craft all 16 colors of concrete=Make ye all the cement colours!
+
+The Terracotta Army=Clay Soldiers
+Craft all 16 colors of terracotta (stained clay)=Create all the colors of clay soldiers
+
+The Walls=The Walls o' Pebbles
+Build some cobblestone walls=Read the title!
+
+Torched!=Torched!
+Light up the area with some torches=Use ye torches!
+
+Translucence=Crystals?
+Craft all 16 colors of stained glass=Get ye all sixteen crystals on yer voyage!
+
+What a pane=Portholes
+Craft some glass panes=Make ye a porthole!
+
+Yay! I got my wood!=Prepare the plank!
+Collect all six types of wood=Make ye all the planks!
+
+Your Door Was Locked=Your door was locked!
+Craft a door to stop monsters from entering your house=Stay outta me cabin, ye scurvy scallywags!
+
+
+
+# Combat tab as of 1.3
+Blast Shield=Explosion Blocked!
+Survive a creeper's blast with your shield=Block yer Explodin' Mate!
+
+Bombs Away!=Powder keg
+Use gunpowder and sand to craft TNT=Somethin' needs to launch those cannonballs!
+
+Bow Spammer=Machine Musket
+Attack a mob by bow-spamming=Blast ye mob by only charging ye musket a teeny bit
+
+Creepy Heads=Yer Explodin' Mate's Heads!
+Blow up a creeper with a charged creeper to get a creeper head=Perfect for me head collection, ye creep!
+
+Dead Don't Die=Dead men tell no tales
+Kill a zombie=Board a ghost ship and slaughter ye an undead sailor!
+
+Desert Nomad=Dune sea sailor
+Kill a husk=Slaughter ye a heated sailor!
+
+Dungeon Crawler=Dungeon Crawlarrr
+Defeat all kinds of mobs from special structures=Slaughter all the mobs in the dungeons
+
+Egging, Dude!=I'm Cackling!
+Vandalise something with eggs=Throw that egg at something and cackle like a delinquent!
+
+Ender Worm=Ender wormie
+Prevent an endermite from maturing=Spear an ender wormie!
+
+Eskimo=Ice sea terror
+It may be illegal to hunt polar bears in real life, but not in Minecraft=Hunt tha' Beast o' the Cold!
+
+Ew Ew Ew!=Bug o' th' night
+Kill a spider=Slaughter ye a night bug
+
+Fireworks Display=Sparkly bomb
+Use gunpowder and paper to craft fireworks=Make ye a fake bomb that lights up wit' all tha' pretty colours an' sparkles instead
+
+Frosty=Ice sea sailor
+Kill a stray=Slaughter ye a Wanderer
+
+Gelatinous Cube=Cube o' slime
+Kill a slime=Slice n' dice a cube o' slime
+
+Hell Hunter=Nether Swashbuckler
+Defeat all kinds of Nether mobs=Slaughter all ye mobs in tha' nether regions!
+
+Iron Belly=Rotten!
+Stop starvation using rotten flesh=Starve so much ye're reduced to eatin' ye putrid rations
+
+Leader of the Pack=Huntin' Pack
+Befriend a wolf=Get stranded on ye island and befriend tha' local hounds
+
+Keep Your Distance=Keep yer distance!
+Kill a Creeper with arrows=Slaughter one of ye explodin' creepers wit' ye flintlock!
+
+Monster Hunter=Scurvy Dog Slaughter
+Kill any hostile monster=Slaughter an enemy creature
+
+Monsters Hunted=Gotta slaughter 'em all!
+Kill one of every hostile monster=Slaughter one of every creature in the sea
+
+Night Runner=Night Scourge!
+Defeat all kinds of Overworld night mobs=Slaughter all ye creatures of the night
+
+Not Today, Thank You=Not on my ship, thank you!
+Deflect an arrow with a shield=Deflect a bolt with a targe
+
+Plane Walker=Tall one sightseein'
+Kill endermen in all three dimensions=Slaughter all the endermen in all tha' subseas
+
+Point Blank=Point Blank
+Shoot a mob from point-blank range=Stick ye musket in a creature's heart and shoot it!
+
+Poisonous Ew=Poisonous Bug o' th' cave
+Kill a cave spider=Slaugther ye a cave horror
+
+Combat=Swashbucklin'
+Battle against the monsters of this world=Swashbucklin' against the creatures of the seven seas
+
+Sniper Duel=One pirate to another
+Kill a skeleton with an arrow from more than 50 meters=Fire a bolt at a scurvy corpse from the crow's nest
+
+Snowball Fight=Where are my cannonballs?
+The spirit of Christmas... quickly drowned out by a battle=Oh, yeah, it's Christmas!
+
+Spooky Skeleton=Bag o' bones
+Kill a skeleton=Slaughter one of them bag o' bones
+
+Spooky Skulls=Spoils of battle
+Blow up a skeleton with a charged creeper to get a skeleton skull=Collect the skulls of yer enemies
+
+Still Talking!=Still talkin'
+Blow up a zombie with a charged creeper to get a zombie head=Great for singin' sea shanties to tha' crew!
+
+Take Aim=Align the cannons
+Shoot something with a bow and arrow=Yargh, enemies! Shoot them at once!
+
+Taste of your own medicine=Taste o' tha' wizard's medicine
+Kill a witch with a splash potion=Blow up ye a wizard wit' its grenades
+
+Tele-Morph=Tele-what?
+Damage a mob by teleporting into it=Accidentally throw one of these tall mens' treasure at a creature
+
+Termite Control=My bilge!
+Kill a silverfish=Slaughter a bilge rat
+
+The ender of ender=The tall one
+Kill an enderman=Slaughter one of these tall ones
+
+The Ghastly Eyes=Big red eyes
+Kill an invisible spider=Slaughter a ghost that is really a bug
+
+The Mighty Hunter=Tha' Mighty Hunter!
+Hunt all types of animals with your bow=Yer trapped on a treasure island, time to go huntin'!
+
+The Undead Cavalry=Bag o' bones on a brumby!
+Encounter and defeat a skeleton horse in a thunderstorm=When the storm brews, these ride the seas
+
+There has to be another way...=There is no other way!
+Kill a zombie villager=Spare the misery of one of them infected sailors
+
+Trampoline=Block o' slime
+Craft a slime block using slimeballs=Mash together a block o' slime
+
+Void Ender=End Swashbuckler
+Defeat all kinds of End mobs=Slaughter all ye mobs in tha' End!
+
+What a creep!=Yer explodin' mate!
+Kill a creeper=Slaughter ye a creeper!
+
+Witch!=Wizard!
+Kill a witch=Ye magic spells no match fer a good flintlock at yer side!
+
+
+
+# Enchanting tab as of 1.3
+Armor for the masses=Blockades
+Obtain every protection related enchantment=Get all tha' blockades wit' magic
+
+Bane of one-shotting spiders=Critter cutter
+Obtain Bane of Arthropods V=Get the strongest critter cutter thar be!
+
+Bow down to me!=Flintlock of vigour!
+Obtain Power V=Use ye magic to make ye flintlock be able to blast anythin'
+
+Complete Enchanter=Every speel!
+Obtain every enchantment throughout your enchanting career=I'm a pirate! I can't sppell!
+
+Curses!=Evil witchery!
+Obtain both types of curses=Be unlucky enough to get both types of evil witchery!
+
+Fiery=Emberred
+Obtain every fire related enchantment=Get all tha' emberred spells wit' magic
+
+Fortunate Son=Treasure!
+Obtain Fortune III=Get the best treasure fer more treasure!
+
+Knocking Your Socks Off=Knocking aft!
+Obtain Knockback and Punch enchantments=Get knockaft on cutlass and musket!
+
+Let It Go!=What is Frozen?
+Obtain boots enchanted with Frost Walker=Get ye a freezer on ye booties!
+
+Librarian=Book keeper
+Build some bookshelves for your enchanting table=Gather up yer books and build up yer wizard's workbench
+
+Like a Cat=Wind In Yer Britches
+Obtain boots enchanted with Feather Falling=Feel it!
+
+Master Armorer=Master Medieval Knight in Shinin' Armor!
+Create a perfect suit of armor=Make ye a perfect suit of armor then discard it cause where's the flamboyance?
+
+Master Enchanter=Ye not a pirate anymore!
+Obtain every enchantment at their max level throughout your enchanting career=Ye must be a wizard in disguise if ye can get this!
+
+Master Fisher=Lure Master
+Create a perfect fishing rod=Make ye a perfect fishin' pole!
+
+Master Knight=Clockwork Cutlass!
+Create a perfect sword=Make ye a perfect cutlass!
+
+Master Miner=Hey, I know ye Minemaster!
+Create a perfect pickaxe=Make ye a perfect pickaxe!
+
+Master Sniper=Master sharpshooter!
+Create a perfect bow=Make ye a perfect musket!
+
+Needle Sharp=Scarring!
+Obtain Sharpness V=Make it very scarry!
+
+Heavy Metal=Fix-up slab!
+Craft an anvil=Make a fix-up slab!
+
+Overkill=Slaughterhouse
+Deal eight hearts of damage in a single blow=Plunder eight hearts 'n one shank
+
+Pick Like Silk=Pick Like Soft hands
+Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block=They must belong to a lady. Use them to get diamond orrre!
+
+Enchanting=Spell Caster
+Enchant items to give them magical abilities=Use magic to make yer colt shoot preciser at the wizard's workbench
+
+Scuba Gear=Mermaid
+Obtain every water related enchantment=Use magic to transform ye into a beautiful mermaid!
+
+Super Efficient=Super Useful
+Obtain Efficiency V=Make yer pickaxe super useful!
+
+Unbreakable=Renovatin'
+Obtain Mending on an item=Make ye item constantly renovatin'
+
+Undead Slayer=Undead vanquisher
+Obtain Smite V=Get the strongest vanquisher thar be!
+
+
+
+# End tab as of 1.3
+Anti-Gravity Generator=Oh, I'm Flyin'!
+Bring a shulker into the overworld and let it give you anti-gravity=Get a shulker on ye ship and then fly!
+
+Cow Jumped Over The Moon=Bovine Jumped Over Tha' Moon!
+Bring a cow from the Overworld to the End and then kill it=Get a bovine to tha' end cause it looks like tha' moon an' slaughter it!
+
+Dragon Shield=Flyin' Dutchman shield
+Attempt to block the dragon's attacks=Attempt to block tha' Flyin' Dutchman's cannons!
+
+End Bricks!=Ye Tall One's Bricks
+Craft end bricks from end stone=Craft bricks from Ye Tall One's Stone!
+
+For Mother, Clarence=That reference makes no sense!
+Kill a shulker=Slaughter Clarence. Sorry, me meant a shulker!
+
+Free the End=Rip the Big Bad Bat
+Good luck=Wish ye' luck
+
+Getting Chorus=Getting Tall One's Fruit
+Attack a chorus tree until it collapses=Chop ye Tall One's Tree until it timbers
+
+Great View From Up Here=Golden view from up tha' mast
+Levitate up a distance of 50 metres=Sail up 50 blocks after being hit by a Shulker Cannon
+
+I'm Coming Back, Murph!=I'll be sailin' back, Murph!
+Travel far into the End dimension=Sail far into tha' End
+
+No! Don't let me leave, Murph!=No! Don't let me set sail, Murph!
+Travel so far into the End dimension you might as well be on another planet=Fall off tha' edge of tha' End
+
+Noxious Fumes=Bottled Fog
+Use dragon's breath to brew a lingering potion=Use the Flyin' Dutchman's projectiles to make bottled fog
+
+Off With His Head!=Off With His Head!
+Collect a dragon's head from the bow of an end ship=Rip off tha' Flyin' Dutchman's head off it's bow.
+
+Poison Dart=Bolt o' Toxin
+Craft tipped arrows of poison=Make toxic bullets!
+
+Portable Storage=Carry treasure!
+Use shulker shells to craft a shulker box=Use shulker shells to create a box to carry yer treasure in!
+
+Purpurfect!=Purpurfect!
+Craft or collect purpur blocks, slabs, pillars and stairs=Assemble ye materials fer a fake end city!
+
+Remote Getaway=How to move without ship
+Escape the island=TAKE THE BOOTY 'N AHOY!
+
+The End=Tha End
+Or the beginning?=Leaving the dock?
+
+Shouldn't my shield levitate too?=Floatin' targe
+Block a Shulker's bullet with your shield=Block a Shulker Cannon wit' ye targe
+
+Sky High=Head in the clouds
+Fly up beyond the world height limit=Use ye aeroplane to fly above tha clouds
+
+Sky's the Limit=The sea horizon is the limit
+Find an Elytra=Find an aeroplane
+
+Some Breakthrough=Don't sell the bike shop, Orville!
+Exhaust your elytra=Crash your aeroplane
+
+The City at the End of the Game=The Dock at th' End of tha Battle
+Go on in, what could happen?=Sail on in, what could happen?
+
+The End... Again=The whirlpool... Again
+Respawn the Ender Dragon=Respawn the Flyin' Dutchman
+
+The Next Generation=Kill it with Fire!
+Hold the Dragon Egg=Hold the Big Chicken's Egg
+
+The Start of Something=Tha Start
+Craft your first ender crystal=Make ye some Flyin' Dutchman's Treasure!
+
+Uh, Houston? We have a problem=The first man!
+Fly up to a ridiculous height=Have enough space rocket power to get to space
+
+You Need a Mint=Ye got a bad breath
+Collect dragon's breath in a glass bottle=Collect the Flying Dutchman's projectiles in a cup o' glass
+
+
+
+# Farming tab as of 1.3
+24 Carrot Gold=24 Carrot Gold
+Eat a golden carrot=Eat a Carrot o' Gold
+
+A Balanced Diet=A Healty Pirate's Food
+Eat everything that is edible, even if it's not good for you=Eat all ye can eat! Even if ye ol' belly can't handle it!
+
+A Horse in Shining Armor=A Brumby in Bejeweled Armor
+Find diamond horse armor=Find Bejeweled Armor for ye Brumby!
+
+A Seedy Place=Seeds like sand on the beach
+Plant a seed and watch it grow=Plant a seed and watch it grow into food
+
+Artificial Selection=Artificial Selection
+Breed a horse and a donkey to get a mule=Breed a brumby and furry cargo to get different furry cargo
+
+Bake Bread=Bake some Hard Tack
+Grow wheat and use it to bake bread=Turn wheat ta Hard Tack
+
+Bapple!=Scurvy's Cure
+Crunch into an apple=Ye don't want scurvy, eh, ye scurvy scallywag?
+
+Blistering Barnacles!=Blistering Barnacles!
+Get spat at by a llama=Get spat at by a spitting sheep!
+
+Breaking the Law of Conservation of Matter=Breaking after recraftin'
+Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back=Craft up a melon block wit' 9 melon slices
+
+Care For the Environment=Care for morr wood!
+Plant down a sapling=Plant down a meager shrub
+
+Catching Nemo=Catching Tinyfish
+Catch a clownfish=Catch a Tinyfish and name it Nemo
+
+Chatterbox=Polly want a cracker?
+Tame a Parrot using seeds. WARNING: Do not use a cookie!=Actually, shouldn't use a cracker
+
+Cow Tipper=Bovine bullyin'
+Harvest some leather=Gather some bull's skin
+
+Cowboy=Bovine Boy
+Tame a horse by jumping on it over and over again=I doubt this'll ever become a fad
+
+Delicious Fish=Crummy Chum
+Craft a fishing rod and use it to catch a fish=Catcha critter on yer hook and put it on the burner!
+
+Die, Potato!=Die, Tater!
+Squash and eat a potato=Squash and eat ye a tater!
+
+Do you want to build a snowman?=Do ye want to build a snowman?
+Use a pumpkin and snow blocks to build a snow golem=No!
+
+Ecologist=Logfella!
+Plant down all six types of sapling=Plant down all six types of meager shrubs
+
+Feeling Sheepish=Feelin' Sheepish
+You'll get over it=Ye sure ye'll get over it
+
+Getting Into a Stew=Getting Into a Stew
+Make and eat some rabbit stew=Make and chow down on ye stew o' rabbit!
+
+Have a Shearful Day=Here's your cutter!
+Use two iron ingots to craft shears=Use two bullions o' steel to make ye cutters!
+
+High Steaks=High Steaks
+The steaks are high for this advancement!=The steaks are high for this accomplishment!
+
+Hot Topic=Build yerself an oven
+Construct a furnace out of eight stone blocks=Use eight pieces o' pebbles
+
+Lion Tamer=Yer Explodin' Mate's enemy!
+Tame an Ocelot using fish=Use yer crummy chum to tame yer explodin' mate's enemy!
+
+Me Love Cookie=Me Love Biccie!
+Bake some cookies... and then scoff them all yourself=Bake some biccies... and then scoff 'em all yerself!
+
+Meat Lovers=Meat Lovers
+Eat every type of meat, even if uncooked or rotten=Eat all tha' meat on this sailin' trip!
+
+Milk does your body good=The juice of bovines!
+Take a swig swig swig swig=Glug glug glug!
+
+Mushroom, Mushroom, Mushroom, Mushroom!=Shroomy!
+Slurp some mushroom stew=Slurp some shroom goulash!
+
+Naturally Carved=Naturally Carved until 1.14!
+Harvest some spooky pumpkins=Harvest ye some Gourd Squash!
+
+Not Today!=Not Today!
+Eat a poisonous potato=Eat a toxic tater by accident!
+
+Overpopulation=Love is in the winds
+Breed every type of animal=Breed all the animals in the sea!
+
+Pork Chop=Pig Meat
+You know kung fu, how about pork chop?=How ye like that, ye swine?
+
+Rabbit Season=Bunny season!
+Killing bunnies is cruel. Period.=Yargh!!
+
+Rainbow Collection=Rainbow collection
+Gather all 16 colors of wool=Gather all 16 colours of cloth
+
+Renewable Energy=Charred coal!
+Smelt wood trunks using charcoal to make more charcoal=Burn some timber
+
+Repopulation=Beefy Birth
+Breed two cows with wheat=Feed ye cows wheat and make ye a baby cow
+
+Farming=How To Landlubber
+The world is full of friends and food=The sea is full of pirates and food
+
+Salmonella Poisoning=Salmonella scurvy!
+Eat some raw salmon... and not get poisoned after all=I told ye ye'd get scurvy, did I not?
+
+Serious Dedication=How to not be a pirate
+Completely use up a diamond hoe, and then reevaluate your life choices=Spend yer entire life destroying a shiny farmin' stick, then reevaluate yer existence
+
+So Good=Fowl Play!
+Can't beat it, can't beat it=We pirates don't need fast food to survive!
+
+Souperman=Soup o' Bloody Potatoes!
+Beetroot soup gives you souperpowers!=Bloody Potatoes don't give you superpowers!
+
+Sugar, Sugar=Sugar!
+Harvest some sugar cane from a river or ocean=Sugar is the best treasure ever. Better than gold!
+
+Sushi=Sushi
+Eat some raw fish=Eat some Japanese cuisine... except pirates don't really go out there much
+
+The Lie=Pirates don't get Portal references
+Wheat, sugar, milk and eggs!=Hops, Sugarrr, Cow's Juice and Cackle Fruit!
+
+The Melon! The Melon! The Melon!=The Watermelon!
+Eat a melon. Be careful not to drop it over a cliff=Cut it up before it rolls off a cliff!
+
+The Pie=Oh my Roasted Gourd!
+Bake a pumpkin pie=Bake that!
+
+Trimming the Treetops=Trimmin' the Treetops
+Use shears to obtain leaf blocks=Cut up some leafy leaves!
+
+Ultra Hardcore=We found it!
+Craft and eat a normal golden apple=Get ye an Eden's apple
+
+Vegetarian=Vegetarian
+Eat every type of fruit, vegetables, and any sort of plant matter=Urrgh! Vegetables are for peasants!
+
+When Pigs Used to Fly=Flyin' Porkchop!
+Craft a carrot on a stick so you can ride a pig off a cliff=Put a stick on a carrot to ride yer piggy into the depths
+
+You Lead, I'll Follow=Let's danec!
+Craft a lead for forming a llama caravan=No, no, we got it muddled up! Craft a rope o' pullin'!
+
+
+
+# Mining tab as of 1.3
+Acquire Hardware=Get ye hardware
+Smelt an iron ingot=Smelt a steel bullion
+
+Bling Bling Gone=What a waste of gold!
+Completely use up a golden pickaxe, and then seriously reevaluate your life choices=Completely use up all yer gold on a useless minin' tool then break it!
+
+Coal Miner=Fuel Miner
+Mine a stack of coal=Mine enough fuel for my brand new speedboat!
+
+Fuel Engine=Oven in a Landlubbers Boat!
+Craft a powered minecart=You read it here first!
+
+Cover Me With Diamonds=Make Me A Canvas o' Fancy Pebbles
+Diamond armor saves lives=Diamond armor save yer pirate life and keep ye shipping
+
+Diamond Clad=Diamond Pirate
+A full suit of diamond armor saves even more lives=All tha diamond armor saves moar pirate lives!
+
+Diamond Miner=Shiny Pebble Miner
+Mine a stack of diamonds. Good luck!=Get a stack o' 'em diamonds! Wish ye luck!
+
+Diamonds!=Shiny pebbles!
+Acquire diamonds=Get 'em diamonds
+
+Electric Rails=Gimme a Boost!
+Making furnace minecarts completely useless=Makin ye ovens in landlubbers' boats completely useless!
+
+Enchanter=Spell Caster
+Craft an enchanting table=Use a logbook, rock o' tears and wealth o' the ocean to build a wizard's workbench
+
+Even MOAR Tools=Even MOAR Tools
+Craft a full diamond tools set=Diamond tools save lives. Do they?
+
+Fossil Fuel=Fuel o' tha dinosaurs!
+Coal! As in dead dinosaurs!=Soon we'll become fuel for whatever lives 65 million years from now!
+
+Getting an Upgrade=Yer needin' a new pick!
+Construct a better pickaxe=Build yerself a pickaxe o' stone
+
+Gold Miner=Mine! Mine! Mine!
+Mine a stack of gold ore=Plunder a stack o' gold orrre
+
+Gold Rush=Those darn'd bovine boys
+Strike gold and smelt it into a gold ingot=Strike gold
+
+Hot Stuff=Heat Stuff
+Fill a bucket with lava=Fill a pail with molten rock
+
+Ice Bucket Challenge=Coola' Water Challenge
+Form and mine a block of Obsidian=Set up and quarry a rock o' tears
+
+Iron Man=Iron Pirate
+Craft a full suit of iron armor=Ye know who me am!
+
+Iron Miner=Metal Miner
+Mine a stack of iron ore=Plunder a stack o' iron orrre
+
+Isn't It Iron Pick=Isn't It Davy Jones
+Upgrade your pickaxe=Add a power to your stone's best friend
+
+Lapis Lazuli Miner=Lahzward Miner!
+Mine enough lapis lazuli to craft a stack of lapis lazuli blocks=Plunder enough of that blue stuff to make a stack of blocks out of it!
+
+Mineral Collection=Mineral Collection
+Craft every type of mineral block=Craft every type of mineral block!
+
+MOAR Tools=MOAR Tools
+Craft a stone pickaxe, axe, shovel and hoe=Make ye pickaxe, axe, shovel an' hoe o' stone
+
+Aww it broke!=Aww it broke!
+Break your first tool=Let's make another!
+
+On A Rail=Travel like them landlubbers
+Craft a minecart using five iron ingots=Craft yerself a landlubber's boat
+
+Redstone Miner=Redstone Miner
+Mine enough redstone to craft a stack of redstone blocks=Plunder enough of that red stuff to make a stack of blocks out of it!
+
+Mining=Minin'
+Dig underground, gather resources=Dig underwater fer metal for ye cannons!
+
+Seeing Red=Me really angry!
+Mine some redstone from the deepest caves=Mine some redstone
+
+Suit Up=Get ye clothes
+Protect yourself with a piece of iron armor=Protect your crew with a piece o' steel armor
+
+The way to spawn=Navigation tool
+Craft a compass in case you forgot where spawn is=Make ye a sextant!
+
+DIAM- oh, wait, no.=The wrong blue stuff
+It's still useful for enchanting=At least wizards love it
+
+We Need to Go Deeper=To them Lockers
+Build, light and enter a Nether Portal=Structure, ignite and enter tha magic portal to the Nether
+
+We've broken our last shovel=We be havin' broken all our shovels!
+Break all five types of shovels=Make 'em, break 'em, all five types!
+
+What's the time, Mr Wolf?=Glass o' hours!
+Time to clean your clocks! (Or, craft them!)=Turn it upside down every hour!
+
+
+
+# Nether tab as of 1.3
+A Terrible Fortress=A Terrible Island
+Break your way into a Nether Fortress=Get yerself in the Devil's Palace
+
+Basis of Brewing=Verucca o' Hell
+Harvest some nether wart from a nether fortress=Harvest some Verucca from the Devil's Palace
+
+Beaconator=Beam o' the Lords
+Bring a beacon to full power=Upgrade yer buoy to shine with its full strength
+
+Bring Home the Beacon=Take Buoy o' Light to the ship
+Construct and place a Beacon=Build a buoy and place it in the sea
+
+Don't Step on it!=Don't Step on it!
+Mine some magma blocks=The heat be from Davy Jones!
+
+Ender's Chest=Ender's Coffer
+Craft an ender chest for some extra inventory space=Craft an ender coffer so you can store more treasure!
+
+Eye Spy=Secret Crew
+Follow an Ender Eye=Follow ye' crew
+
+Fire Blast Shield=Cannonball!!
+Block the explosion of a ghast's fireball=Hit the deck!
+
+Giant Floating Jellyfish=Giant Floating Nether Cannon
+Shoot down a ghast=Bring down a Ghast
+
+Glows in the Dark=Glows in the Dark
+Craft spectral arrows using glowstone dust=Craft magic bolts using glowstone powder
+
+High Temperature Fluid Monster=Cube o' Magma
+Kill a magma cube=Slice n' Dice a Cube o' Magma
+
+Into Fire=Blazing Demons!
+Relieve a Blaze of its rod=Plunder burnin' stick from the monsters of fire
+
+Limbo Walker=Limbo Sea
+Get above the roof in the nether=Venture into the endless grey unknown
+
+Local Brewery=Bartender
+Craft a Brewing Stand for brewing potions=Craft a still for brewing grog
+
+Quicksand=Devil's Sand
+You sink like quicksand and move slow like mud=Ye sink like quicksand an' move slow like mud
+
+Return to Sender=Right back at ye
+Destroy a Ghast with its fireball=Give a Ghast a taste of its own medicine
+
+Nether=Nether
+Bring summer clothes=Get yer summer eyepatch
+
+Spooky Scary Skeleton=Spooky Scary Bag o' Bones
+Obtain a wither skeleton's skull=Battle the corrupted Bag o' Bones and relieve it of it's skull
+
+Subspace Bubble=Ship Dislocator
+Use the Nether to travel 7km in the Overworld=Use the Devil's Land to travel 7km in the Sea!
+
+The End?=Tha End?
+Enter the End Portal=Ship to tha Moon
+
+The Hunt Begins=Let tha Slaughter begin
+Kill a wither skeleton=Slaughter a corrupted Bag o' Bones
+
+The Nether's Shield=The Nether's Targe
+Block some blaze fireballs=Block some blazin' cannonballs
+
+The Tribal Snouts=The Tribal Pig Noses
+Kill a zombie pigman=Slaughter one of them Undead Swines
+
+Uneasy Alliance=Ghastly sea battle
+Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it=Salve a Ghast from the Nether, get it safely onto yer boat on yer sea... and then slaughter it
+
+Withering Heights=Hydra?
+Summon the Wither=Bring the Wither to life
+
+
+
+# Potions tab as of 1.3
+A Furious Cocktail=This can't be tasty
+Have every potion effect applied at the same time=Have every potion o' magical effect applied on ye at the same time
+
+A Much More Doable Challenge=I'm very sick
+Get all the effects possible during your life (not all at the same time)=Get exposed to every magical effect in existence
+
+A Weak Brew=A Weak Drink
+Brew up a potion of Weakness=Brew up some Livy Liver's Ale
+
+Death by Magic=Grenade!
+Kill a mob with a splash potion=Slaughter a mob by blowin' it up wit' a grenade!
+
+Hopping Mad=Hoppin' Mad
+Get jump boost from a beacon or a potion=Get on the high tide
+
+How did We Get Here?=No treasure? I feel rigged
+Have every effect applied at the same time=Have every magical effect on ye at the same time
+
+Hyper-Healing=Fountain of Youth
+Brew and drink a regeneration potion=Brew and drink up some Voodoo's Ale
+
+Medic!=I am a doctor!!!
+Brew a healing potion=Brew up some Grog o' Healin'
+
+Marine Marauder=Mermaid's Blessing
+Catch a pufferfish and use it to brew a water breathing potion=Catch a blowfish and use it to brew up a Bottle of Mermaid's Breath
+
+Nocturnal=Moonlight
+Brew and drink a night vision potion=Brew and drink up some Grog o' Moonlight
+
+Performance-Enhancing Drugs=Full Sails
+Brew a Speed Potion for cheating on athletics=Brew a Grog o' Full Sails so you can throw it on the sails to make em' full
+
+Potions=Grog
+Brewing potions with helpful and hindering effects=Brewing up grog to make yerself drunk
+
+Stayin' Frosty=Flame's Bane
+Drink a fire resistance potion so you can go swimming in lava=Drink up some Grog o' Flame's Bane so you can walk the plank ov'r lava
+
+Super Strength=This is no time to be drinking!
+Brew a Strength Potion for cheating on weightlifting=Brew up some Rum so you can drink yerself silly
+
+The Invisible Player=The Ghost Pirate
+Brew and drink an invisibility potion=Get yourself buzzed on Bottled Ghosts
+
+Zombie Doctor=Undead Sailor's Medic
+Cure a zombie villager=Beat up a scurvy zombie villager 'til tis almost dead and then make it resurge from the undead
+
+
+
+# Redstone tab as of 1.3
+Bling Plate=Golden plate!
+Dine in style! (No, not really)=Dine in style!
+
+Comparing Comparator=Compaaratorrr!
+Craft a redstone comparator=Make ye that!
+
+Dispense With This=All cannons! Open fire!
+Construct a dispenser=Construct ye a cannon!
+
+Metal Plate=Plate
+Dinner time!=Dinner time!
+
+Moving Parts=Raised Deck
+Craft a piston so you can push things=Raise it then lower it!
+
+Mozart=That terrible noise!
+Craft a note block=Craft ye a hornpipe!
+
+Observer Buddy=I spy...
+Craft an observer=Craft a spyer
+
+Pressure Detector=Booby track
+Use a pressure plate to craft a detector rail=Get it? The pun?
+
+Quartz Miner=White Rock Miner
+Mine enough nether quartz to craft a stack of quartz blocks=Make ye a lot of white rock blocks!
+
+Quirky Quartz=White Rock
+Mine Nether Quartz from the Nether=Dig ye some white rock!
+
+Repeating Repeater=Repeatarrr
+Craft a redstone repeater for delaying signals=Craft ye that!
+
+Redstone=Industrial Revolution Thingamajigs
+Cracking contraptions=Where is this in the world of pirates?
+
+Solar Power=Sun 'o meter
+Craft a daylight sensor=Turn on at day and turn off at night!
+
+Space Dropper=Broken cannon
+Craft a dropper for item transportation=Let's reuse it as a whiskey dispenser!
+
+Space Hopper=Suck... suck... suck!!!
+Craft a hopper for item transportation=Make ye a suckin' device. No, not a vacuum cleaner!
+
+Sticky Parts=Sticky Raised Deck
+Craft a sticky piston so you can pull things=Get yer booties stuck in the deck!
+
+Tripping Over=Captain Hook!
+Craft a tripwire hook for your traps=No, that's the wrong kind of hook, ye scallywag developers!
+
+Troll Chest=Booby trapped chest
+Craft a trapped chest to troll your friends=Bury it somewhere fer the next pirate to get a surprise!
+
+Under Pressure=Booby trap!
+Craft a pressure plate=Ha! Booby!
+
+
+
+# All advancements that get added in versions 1.4 or later will be added down here for easy locating by translators who wish to update their language file
+
+
+
+
+

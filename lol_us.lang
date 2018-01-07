@@ -1,0 +1,1038 @@
+# BlazeandCave's Advancements Pack Language File
+ 
+# How to use: Name and descriptions of advancement to left of =, and put translation to right of =.
+# Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+
+# This file will be updated with new advancements with each new update.
+# Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+
+# Language: LOLCAT (Kingdom of Cats)
+# Author: Cavinator1
+# Pack version supported: 1.3.1
+
+# All language entries are organised in alphabetical order of file name as of 1.3
+# All new advancements added in updates later than 1.3 will be put at the bottom of the file for easy locating and adding by translators
+
+# Adventuring tab as of 1.3
+Adventuring Time=Catvenshuring Tiem
+Discover every biome=Disccover evry baium
+
+Boaty McBoatface=Boaty McBoatface
+Craft a boat for sailing on the high seas=Catt a watr car 4 sailing on tha watr
+
+Hired Help=Haierd Help
+Summon an Iron Golem to help defend a village=Spawn a Strange Irun Hooman 2 defend a hooman town
+
+Cold Feet=Culd Feet!
+Discover every cold biome=Discuver evry culd byarm
+
+Disc Jockey=DJ
+Collect all 12 music discs=Collec all da round loud things
+
+Do You Want to Trade?=Do u want 2 traid?
+Find an NPC village=Find a hooman town
+
+Dry Spell=Warm spunge couch!
+Dry a sponge in a furnace=Warm a spunge in a hot box
+
+Filthy Rich=Filfy rich!
+Make 64 emeralds=Get 64 bucks
+
+Filthy Stinkin' Rich=Feelthy stunkin rich!
+Make 64 emerald blocks=Get 64 blocks of bucks
+
+Flower Power=Flawa Pawa
+Collect all types of flowers=Get all da flawas
+
+Ghostbuster!=Ghostly Thingy Buster
+Bust a Vex summoned by an Evoker=Bust a ghostly thingy
+
+Grave Robber=Greav Robbah
+Enter a pyramid in a desert=Find a piramid and build a cat sphinx
+
+Heeere's Johnny!=Bad Guy!
+Kill a Vindicator=Fite a bad guy
+
+House of Psychos=Hoomanshun of Bad Guys
+Find a Woodland Mansion=Get up on a WOOdland Hoomanshun
+
+I hereby dub thee...=Collar!
+Obtain a name tag=Get a renaemer
+
+Just Keep Swimming=Meh wurst nitemayor
+Go for a swim=Fuul in some wateh
+
+Kilometre Walk=km gallop
+It's not that far in real life=Gallop 1km across te house 4 no reason
+
+Laser Sharks!=SHARKS WITH LAZERS!
+Defeat a Guardian=Pounce on 1 of dem sharks
+
+Magic Book=Shineh Magic Book
+Trade for an Enchanted Book=Traid 4 a shineh book
+
+Mapmaker=Mapmakr
+Craft or trade an empty map=Traid 4 a cleen map
+
+Monumental=Mon you mentall
+Find an Ocean Monument=Bote 2 Oshun Monumeant
+
+Music To My Ears=What is that?
+Find a music disc=Get a round loud thing
+
+One with the forest=1 wif da 4est
+Discover every forest biome=Dizkravah all da 4est baioms
+
+Overgrown!=Ansestur's natural habitat
+Discover every overgrown biome=Discuvvah all da overgrown byomes
+
+Overpowered=power lvl 9000
+Obtain a Notch Apple=Obtayn a Notch apl
+
+Postmortal=After dieded
+Use a Totem of Undying to cheat death=Use a Toitem of Undining to use one of meh nine lives
+
+Adventure=Catventure
+Adventure and exploration=Catvntr an explor
+
+Snow Feet=Whyte fet
+Discover every snowy biome=Find all da whyte byioms
+
+Spear Fishing=Bowz Fishin
+Kill a Guardian with arrows=Kill da sharkz wif errowz
+
+Tarzan=Tar zan
+Swing (or climb) on some vines=Clmb som plantz
+
+Ten Thousand Blocks=10km
+A journey that long begins with a single step=Gallop 10km across te house 4 no reason
+
+The Deep End=BIG LAZUR SHARK!
+Defeat an Elder Guardian=FIte a BIG LAZUR SHARK!
+
+The Shielding=Da sheel-ding
+A shield does no better than a locked door=Bad guy done meh protekshun
+
+This is Mine Now!=Dis be mine now!
+Find an abandoned mineshaft that was not dug out by you=Mineshaft is mine or I scratch you!
+
+Tomb Raider=Larra Crofft
+Enter a jungle temple=Entur ainshunt jungel tempel
+
+Treasure Map=TREASURE!!
+Trade for an Explorer Map=Traid 4 da explurur map
+
+Voyage=100km!!
+A hundred kilometres!=100km!!
+
+Warm Feet=Warm Fet
+Discover every dry biome=Discuver all dah warm byiomes so u can sleep there forevuh
+
+Wet Feet=Wet Feat
+Discover every water biome=Disccuvah all da wateh bioms and stey away
+
+What a Deal!=Wat a deel!
+Successfully trade with a Villager=Successfullee traid wif villagr
+
+Witchcraft=Whichcraft
+Find a witch hut in a swamp=Find da crazy hut of kitteh ownrs
+
+Wololo!=Wololo!
+Defeat an Evoker=Fite a wizrd
+
+
+
+# Building tab as of 1.3
+A Masterpiece!=Picture 4 me to knock ovr
+Put up a painting=Make 1 ov dem plz
+
+Ah, My Old Enemy...=Kung Fu Panda!
+Craft every type of stairs=Crafft all da stairs so da Kung Fu Panda cant get in ur hourse
+
+Benchmarking=Biznis Kitty
+Construct a crafting bench with four wooden planks=Craft werkbench wif 4 blukz ov plankz
+
+Bricks!=brickz!
+Fire up that clay!=Burn up da clay!
+
+Change of Sheets=Chainj ov sheets
+Dye your bed a different color than white=Make ur bed a diff culur
+
+Classy Glassy=Clazzy glas
+Smelt sand in a furnace to get glass=Burn up da sand!
+
+Clay-Dough!=Play-doh!
+Dig up some clay from a lake=Get clae from laek
+
+Concrete Evidence=Tough bluks
+Create concrete from concrete powder by dropping it into water=Make tough bluk powdr wet
+
+Creepers and Withers=Creepahs an Uivvahs
+Engrave sandstone with creeper and wither patterns=Scratch sandstone wiv da patturns
+
+Display your items for all to see...=Kitteh fraem
+Craft an item frame for displaying your items=I'd liek to be in a cute cat picture
+
+Electric!=Ellektrick!
+Light up the area with some redstone lamps=Use redstoan lapms!
+
+En Garde=Scratching Post!
+Erect some fencing=Put up a scratching post for ye kitteh
+
+Expensive!=Ecks pens if!
+Light up the area with some sea lanterns=See see lanturns
+
+Fake fortress=Faek 4tress
+Craft or collect all forms of nether brick, red nether brick, and nether wart blocks=Scratch all da nevver brickz
+
+Fake monument=Faek mon you ment
+Craft or collect all forms of prismarine blocks=Scratch all da prizmarine
+
+Fake stronghold=FAek holds of strongg
+Craft or collect normal, cracked, mossy and chiseled stone bricks=Scratch all da stone brickz
+
+Fluorescent!=Flewrosent!
+Light up the area with some end rods=Use Unikorn Horns
+
+Getting Wood=Gettin Wuud
+Attack a tree until a block of wood pops out=Attack tree til bluk ov wuud pops out
+
+Glowing!=Glowin!
+Light up the area with glowstone=Use Glowy stoan
+
+Greek Art Decor=Freeks & Greeks!
+Craft quartz blocks, stairs, slabs, pillars and chiseled=Scratch all da Kwortz
+
+Halloween!=Helloweener!
+Light up the area with jack o'lanterns!=Use da big glowy squash
+
+It's a Sign!=Its a txt box!
+Craft and place a sign=Use a wuddn txt box
+
+It's a Trap!=Admiral Ackbar!
+Craft and place down a trapdoor=Trap Admiral Ackbar so he cant get in ur howse
+
+Jailhouse Block=Letz Escape!
+Craft or find iron bars=Use Jeil Bahrz
+
+Ladder Climbers Inc.=Ladr Climbrs Inc
+Climb the ladder!=Make ladrs
+
+Mannequin=Stick figurez
+Craft an armor stand for displaying your armor=Make a stick figure
+
+Master Logger=All da logz
+Cut down a full stack of logs of all types=Cut dawn all da logz!!
+
+Pathways=Gr's Peth
+Use a shovel to create grass paths=Youze a spoon to make Gr's peth
+
+Pot Planter=Pritty Plantz container
+Craft and place a flower pot=Make a container fer all da pritty plantz
+
+Rainbow Sand=Rainbow sand
+Craft concrete powder using sand, gravel and dye=Make some rainbow sand
+
+Raise the flag!=Rise da flag!
+Craft and place a banner=Craff an place a bahnor
+
+Rock Collection=kitteh litter rocks
+Collect all the types of rocks=Collect all de rocks in ur kitteh litter
+
+Building=Bill Ding
+Your only limit is your imagination... and resources=Ur ownly limit is ur big cat brain... an stuff u have
+
+Slabs For Days=Bluks cut in half
+Craft every type of slab=Cut all da bluks in half
+
+Stationary Storage=Cat Box
+Craft and place down a chest for storing your items=Make a Cat Box to sit on
+
+Sweet dreams=Sweet cat-dreamies
+Change your respawn point=Change ur rebirt point
+
+The Glazed Terracotta Army=Da Glaized Terrorcottor Army
+Craft all 16 colors of glazed terracotta=Make all 16 culors ov Glaized Terrorcottor
+
+The Rainbow You Always Wanted=Nyan Cat
+Craft all 16 colors of concrete=Nyan nyan nyan nyan nyan!
+
+The Terracotta Army=Da Terrarcota Armee
+Craft all 16 colors of terracotta (stained clay)=Make ull 16 collurs of Teracotter
+
+The Walls=COBULSTOWN WULL!
+Build some cobblestone walls=Make some words I capped for no reeson
+
+Torched!=Thourched!
+Light up the area with some torches=Use da burny sticks
+
+Translucence=Staynd Glazz
+Craft all 16 colors of stained glass=Make all 16 culars ov stairned glas
+
+What a pane=I didn't no that was there
+Craft some glass panes=Make some glass panes
+
+Yay! I got my wood!=Whered my wood go?
+Collect all six types of wood=Get all 6 types of wuud
+
+Your Door Was Locked=Cat's worst enemy
+Craft a door to stop monsters from entering your house=Make a door, meh worst enemy
+
+
+
+# Combat tab as of 1.3
+Blast Shield=Boom Protekshun
+Survive a creeper's blast with your shield=Protect urself from a Creeper's Boom
+
+Bombs Away!=BOOM!
+Use gunpowder and sand to craft TNT=Use litter box rocks and ganpowder to make a big boom!
+
+Bow Spammer=Bowz Spemmer
+Attack a mob by bow-spamming=Scratch a bad kitteh wif bowz-spemming
+
+Creepy Heads=Cweepy Heds
+Blow up a creeper with a charged creeper to get a creeper head=Scratch off the head off a creeper
+
+Dead Don't Die=Ded Dont Die
+Kill a zombie=Fite a Bad Hooman
+
+Desert Nomad=Dessert No Mad
+Kill a husk=Fite a Warm Hooman
+
+Dungeon Crawler=Dunjun Crooler
+Defeat all kinds of mobs from special structures=Scratch all da bad kittehs from speshel strukchers
+
+Egging, Dude!=Egin!
+Vandalise something with eggs=Vandaliz somfin wif egs
+
+Ender Worm=Ender Wurm
+Prevent an endermite from maturing=Prevent an ender wurm from ma-chewering
+
+Eskimo=Eskymoe
+It may be illegal to hunt polar bears in real life, but not in Minecraft=Pounce on a Wite Beer
+
+Ew Ew Ew!=Ew Ew Ew!
+Kill a spider=Fite a spidur
+
+Fireworks Display=Loud colured lights
+Use gunpowder and paper to craft fireworks=Make a shiny 'splody thing
+
+Frosty=Froztee
+Kill a stray=Fite a Frozen Skeletun
+
+Gelatinous Cube=Jellatinus Kyoob
+Kill a slime=Fite a sliem
+
+Hell Hunter=Help Huntr
+Defeat all kinds of Nether mobs=Scratch all da bad kittehs from da Nether
+
+Iron Belly=Taestz Laik Brokali
+Stop starvation using rotten flesh=Get sick and throw up on ur owner's floor from rotten flesh
+
+Leader of the Pack=Master ov da House
+Befriend a wolf=Rein supereeor ovr da dogs
+
+Keep Your Distance=Keep ur distence
+Kill a Creeper with arrows=Scratch a creepy wit errows
+
+Monster Hunter=Bad Kitteh Huntr
+Kill any hostile monster=Cat has 2 attack an destroy a bad kitteh
+
+Monsters Hunted=Bad Kittehs Huntd
+Kill one of every hostile monster=Cat has 2 scratch 1 uv each bad catz
+
+Night Runner=Nite Runah
+Defeat all kinds of Overworld night mobs=Pounce on all da bad kittehs at nite
+
+Not Today, Thank You=Cat says, 'Nawt today!'
+Deflect an arrow with a shield=Deflekt an arrow wif a sheild
+
+Plane Walker=Plaen welker
+Kill endermen in all three dimensions=Fite endermen in all 3 dimenshuns
+
+Point Blank=Pint Blanket
+Shoot a mob from point-blank range=Use errows at scratching distence
+
+Poisonous Ew=Poyzonus Ew
+Kill a cave spider=Fite tine paneful spidur
+
+Combat=Bad kittehs
+Battle against the monsters of this world=Fite agenst da bad kittehs
+
+Sniper Duel=Snypur dewel
+Kill a skeleton with an arrow from more than 50 meters=Kill skulton wif an arrow frum moar than 50 meterz
+
+Snowball Fight=Cold wet fite
+The spirit of Christmas... quickly drowned out by a battle=Speerit of Kirristmess
+
+Spooky Skeleton=Spuuky skelly
+Kill a skeleton=Fite a skelly
+
+Spooky Skulls=Spuuky skullys
+Blow up a skeleton with a charged creeper to get a skeleton skull=Scratch off the skully of a skeletun
+
+Still Talking!=Still meowing!
+Blow up a zombie with a charged creeper to get a zombie head=Scratch off the headdy of a bad hooman
+
+Take Aim=Hedshot som1
+Shoot something with a bow and arrow=Pew-pew sometin wid a bouw and arrou
+
+Taste of your own medicine=Taest ov ur oun medisine
+Kill a witch with a splash potion=Splesh a crazy kitteh ownr wit a spleshy poshun
+
+Tele-Morph=Tele-Mourf
+Damage a mob by teleporting into it=Damaj a kitteh by tp-ing into it
+
+Termite Control=Termight contorl
+Kill a silverfish=Scratch a grae fish
+
+The ender of ender=Te endre ov neder
+Kill an enderman=Fite an enderkitteh
+
+The Ghastly Eyes=Da Gastlee I's
+Kill an invisible spider=Scratch a spooder dat u cant see
+
+The Mighty Hunter=Da Mity Huntre
+Hunt all types of animals with your bow=Scratch all da animals wit bowz & errowz den uplode it to Youtub
+
+The Undead Cavalry=Skeltun Pony
+Encounter and defeat a skeleton horse in a thunderstorm=When evil stormy weather outside house is on, fite 1 ov these
+
+There has to be another way...=There haz 2 b anozer way...
+Kill a zombie villager=Fite an unded villgur
+
+Trampoline=bouncy green stuff
+Craft a slime block using slimeballs=Use ur boogerz to make some bouncy green stuff
+
+Void Ender=Voyd endr
+Defeat all kinds of End mobs=Scratch all da End kittehs
+
+What a creep!=Wot a creep!
+Kill a creeper=Fite a creepy
+
+Witch!=Crazy Kitteh Ownr
+Kill a witch=Fite ur crazy ownr
+
+
+
+# Enchanting tab as of 1.3
+Armor for the masses=Aarmer 4 da mass
+Obtain every protection related enchantment=Get all da protecshun inchantments
+
+Bane of one-shotting spiders=KILL ALL DIS SPIDRZ
+Obtain Bane of Arthropods V=Get strongest killer of spooders sword
+
+Bow down to me!=Bow doun 2 meh!
+Obtain Power V=Get Powir V
+
+Complete Enchanter=Compleet Inchanter
+Obtain every enchantment throughout your enchanting career=Get all da inchantments
+
+Curses!=Bad Inchants
+Obtain both types of curses=Get both da bad inchants
+
+Fiery=Fyirey
+Obtain every fire related enchantment=Get all da fier inchants
+
+Fortunate Son=Forshunat Sun
+Obtain Fortune III=Get Forshun III
+
+Knocking Your Socks Off=Nocking ur sox off
+Obtain Knockback and Punch enchantments=Get Nockback and Punsh inchantments
+
+Let It Go!=cat no liek water hax
+Obtain boots enchanted with Frost Walker=Get no water hax
+
+Librarian=Nerd
+Build some bookshelves for your enchanting table=Build sum bookshelvez 2 improov ur enchantment tabel
+
+Like a Cat=Like a kitteh
+Obtain boots enchanted with Feather Falling=Get bootz that let u fall on ur feetz
+
+Master Armorer=Mastur Aarmurer
+Create a perfect suit of armor=Get a purfect suut ov armur
+
+Master Enchanter=Marster Inchanter
+Obtain every enchantment at their max level throughout your enchanting career=Get all da inchantments at max power lvl
+
+Master Fisher=Mashter Kitteh Feeder
+Create a perfect fishing rod=Get a purr-fect kitteh feedin' device
+
+Master Knight=Masteh Nite
+Create a perfect sword=Get a perfekt sord
+
+Master Miner=Mine Master
+Create a perfect pickaxe=Get a purfact pikakse
+
+Master Sniper=Matser Snypuh
+Create a perfect bow=Get a perfact bowz
+
+Needle Sharp=Much Sharp
+Obtain Sharpness V=Get sharpezt sord poszible
+
+Heavy Metal=Hevy Metl
+Craft an anvil=Get an anvehl
+
+Overkill=Ovurkihl
+Deal eight hearts of damage in a single blow=Take 8 of nine lievs in one hit!
+
+Pick Like Silk=Smooth diggin'
+Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block=Get a rocks wif deemond wif magic pikkatt
+
+Enchanting=Inchanting
+Enchant items to give them magical abilities=Inchant items 2 gif dem majikal abiltees
+
+Scuba Gear=Fish moed
+Obtain every water related enchantment=Get all da water inchants
+
+Super Efficient=Supa Fazt Diggin'
+Obtain Efficiency V=Get fastest pikatt pozsibel
+
+Unbreakable=Unbrakebel
+Obtain Mending on an item=Get Mendin on an itemz
+
+Undead Slayer=Unded Slaer
+Obtain Smite V=Get Smiet V
+
+
+
+# End tab as of 1.3
+Anti-Gravity Generator=Hoverz Jeneratr
+Bring a shulker into the overworld and let it give you anti-gravity=Take shulker home as pet and let it give u Hoverz
+
+Cow Jumped Over The Moon=Cowl Pounced Ovr Da Muun
+Bring a cow from the Overworld to the End and then kill it=Bring a cowl frum home to da End and scratch it
+
+Dragon Shield=Dwaagen Sheeld
+Attempt to block the dragon's attacks=Block da dragone's pounces
+
+End Bricks!=Kat Litter Briks
+Craft end bricks from end stone=Make Briks for meh kitteh litter
+
+For Mother, Clarence=4 Mummy, Clarence
+Kill a shulker=Fite a shulky
+
+Free the End=Free teh End
+Good luck=Git gud
+
+Getting Chorus=Getting Frute dat Duznt Sing
+Attack a chorus tree until it collapses=Scratch a Meow Plantz til it collapsz
+
+Great View From Up Here=Supr dupr view up heer
+Levitate up a distance of 50 metres=Flai up 50 bloks laik superkitty aftr getin hit by a shulker
+
+I'm Coming Back, Murph!=Im coming bak, Murf!
+Travel far into the End dimension=Travl farr in2 da End
+
+No! Don't let me leave, Murph!=No! Dunt let meh leav, Murf!
+Travel so far into the End dimension you might as well be on another planet=Travl so farr in2 da End ur on anozer planet
+
+Noxious Fumes=Noxyus fuumz
+Use dragon's breath to brew a lingering potion=Use dwagon's breth to brue a linnering poshun
+
+Off With His Head!=Off wit his hed!
+Collect a dragon's head from the bow of an end ship=Steal da dwagon's head from da bowz ov an end ship
+
+Poison Dart=Puizn Dart
+Craft tipped arrows of poison=Make Speshul Shooty Tigns Dat Maeks u Puiznd
+
+Portable Storage=Portbel storrge
+Use shulker shells to craft a shulker box=Use shulkr shellies to make da Shell Bux
+
+Purpurfect!=Purr Purr-fect!
+Craft or collect purpur blocks, slabs, pillars and stairs=Scratch all da purpur blokz
+
+Remote Getaway=Remut getawai
+Escape the island=ESC the I-land
+
+The End=Da End
+Or the beginning?=Or da start?
+
+Shouldn't my shield levitate too?=My sheeld shuld hoverz 2
+Block a Shulker's bullet with your shield=Protects urself frum a shulkerz shot
+
+Sky High=Skai Hai
+Fly up beyond the world height limit=Flai up be-yonder da world hait limit
+
+Sky's the Limit=Sky iz teh limit
+Find an Elytra=Find a thingy 2 fly
+
+Some Breakthrough=Sum Brakethru
+Exhaust your elytra=Brake ur thingy 2 fly
+
+The City at the End of the Game=Da city @ end
+Go on in, what could happen?=Go in, wat cud possibly go wong?
+
+The End... Again=Teh End... Agaen...
+Respawn the Ender Dragon=Maek teh endr dragon cum bak tu laif agaen
+
+The Next Generation=Da next generashion
+Hold the Dragon Egg=Hold Dragnoz' unhatched baby
+
+The Start of Something=Da start of sumthin
+Craft your first ender crystal=Make ur first Endur Cristal
+
+Uh, Houston? We have a problem=Uh, Huusten? Me have problmo
+Fly up to a ridiculous height=Flai up 2 a ridiculus hait
+
+You Need a Mint=Throw in a Minetos
+Collect dragon's breath in a glass bottle=Collect dragonz breth in a glaz bottl
+
+
+
+# Farming tab as of 1.3
+24 Carrot Gold=24 Karrat GULD
+Eat a golden carrot=Steel a GULDEN CARRUT frum ur ownr & eet it!
+
+A Balanced Diet=ful uf fuuud
+Eat everything that is edible, even if it's not good for you=EAT ALL THE THINGZ
+
+A Horse in Shining Armor=SUPA shiny hoofy fur!
+Find diamond horse armor=Get sum supa shiny hoofy fur 4 ur pony!
+
+A Seedy Place=SEEDZ!
+Plant a seed and watch it grow=Plant 1 seed and w8t 4 it 2 grow
+
+Artificial Selection=Donkeh + Pony...
+Breed a horse and a donkey to get a mule=donkeh + Pony in luv!!!
+
+Bake Bread=Baik Bred
+Grow wheat and use it to bake bread=Tern weat in2 bred
+
+Bapple!=BAPPLE!
+Crunch into an apple=Steale ur ownr's bapple & eet it!
+
+Blistering Barnacles!=Blisturing Barnekuls!
+Get spat at by a llama=Haf a camel sheep spit at u
+
+Breaking the Law of Conservation of Matter=Physics Cat
+Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back=Craftz 9 mellun slicez in2 a bluk that wont giv meh all 9 slicez back!
+
+Care For the Environment=Care Fell da Jungl
+Plant down a sapling=Plant duwn a baby tree
+
+Catching Nemo=Pouncing Neemo
+Catch a clownfish=Pounce on a funny fishy
+
+Chatterbox=Chattehbox
+Tame a Parrot using seeds. WARNING: Do not use a cookie!=Maek frendz wif a rainbow birdy
+
+Cow Tipper=Caw Tippur
+Harvest some leather=Harvist sum lethur
+
+Cowboy=Cawboi
+Tame a horse by jumping on it over and over again=Maek frendz wif a pony
+
+Delicious Fish=Yummy cat fud
+Craft a fishing rod and use it to catch a fish=Katch fish liek cat!
+
+Die, Potato!=Die, Pootato!
+Squash and eat a potato=Scratch an kill a pootato
+
+Do you want to build a snowman?=Do yeh want to bild Olaf?
+Use a pumpkin and snow blocks to build a snow golem=Yuze a pangkan & sum cold white stuff 2 maek a cold white hooman
+
+Ecologist=Ekolojist
+Plant down all six types of sapling=Plant duwn all da baby trees
+
+Feeling Sheepish=Feelin Baa Baa
+You'll get over it=U get ovr it!
+
+Getting Into a Stew=Getting in2 a Bawl
+Make and eat some rabbit stew=Make warm jumpin foodz and put it in a Bawl!
+
+Have a Shearful Day=Hav a Skizzor Day!
+Use two iron ingots to craft shears=Uze 2 irun inguts 2 maek skizzers
+
+High Steaks=Hi Steaks
+The steaks are high for this advancement!=Da steaks r hi 4 dis atfancemends
+
+Hot Topic=Hot Taupic
+Construct a furnace out of eight stone blocks=Make a Hot Box out ov 8 cobulstoen blukz
+
+Lion Tamer=Cat Frenz!
+Tame an Ocelot using fish=Maek frendz wif anoter cat
+
+Me Love Cookie=Meh luv cukkie!
+Bake some cookies... and then scoff them all yourself=Maek aCookeh an steal dem frum ur owner
+
+Meat Lovers=Meet Luvrs
+Eat every type of meat, even if uncooked or rotten=Eat all da meet
+
+Milk does your body good=Mlk duz ur body gud
+Take a swig swig swig swig=Taek a swig swig swig swig. Yeah yeah
+
+Mushroom, Mushroom, Mushroom, Mushroom!=mushruum, mushruum, mushruum, mushruum!
+Slurp some mushroom stew=Slurp a sup ov funges
+
+Naturally Carved=Nachurlly Carvd
+Harvest some spooky pumpkins=Harvist sum spuuky pangkans
+
+Not Today!=Not 2day!
+Eat a poisonous potato=no eat iz yukky
+
+Overpopulation=Ovr populashun
+Breed every type of animal=Maek all da animls hav babies
+
+Pork Chop=Porrk Chop Kitteh
+You know kung fu, how about pork chop?=U know kung fu, how bout porrk chop!
+
+Rabbit Season=Bunny Season
+Killing bunnies is cruel. Period.=Kill da Jumpin Foodz!
+
+Rainbow Collection=Rainbuw Collecshun
+Gather all 16 colors of wool=Get all da 16 culurs ov fur bluks
+
+Renewable Energy=Renubl Enarjy
+Smelt wood trunks using charcoal to make more charcoal=Burn wuud wit burnt w00d 2 maek moar burnt w00d
+
+Repopulation=Re populashun
+Breed two cows with wheat=Maek Milk-Maekers hav babies
+
+Farming=Farming!
+The world is full of friends and food=Diz wurld iz full of catz an eetin stuffz
+
+Salmonella Poisoning=Nom Nomz!
+Eat some raw salmon... and not get poisoned after all=Eet sum pink nomz
+
+Serious Dedication=r u seriouz y u do dis
+Completely use up a diamond hoe, and then reevaluate your life choices=brak ur deemond hoe n eeeat d seedz
+
+So Good=So Gud
+Can't beat it, can't beat it=Cant beet it, Cant beet it
+
+Souperman=Suupeh hooman
+Beetroot soup gives you souperpowers!=Betrut supe gifs u supe powahs!
+
+Sugar, Sugar=Switz, Switz
+Harvest some sugar cane from a river or ocean=Harvist sum sweet canes frum wateh
+
+Sushi=Sushi
+Eat some raw fish=Eeet sum raw nomz
+
+The Lie=Portalz Referencezzz!
+Wheat, sugar, milk and eggs!=Weet, sugr, mlk n eggz!
+
+The Melon! The Melon! The Melon!=Da Melun! Da Mellon! Da Merun!
+Eat a melon. Be careful not to drop it over a cliff=Eet sum wet juicy fruit
+
+The Pie=Portalz Referencezzz Refrenczz!
+Bake a pumpkin pie=Put squash in a pie
+
+Trimming the Treetops=Makin da Salad
+Use shears to obtain leaf blocks=Use skizzers 2 get sum salad
+
+Ultra Hardcore=Ultra Hard Kor
+Craft and eat a normal golden apple=EET A GULD APEL!
+
+Vegetarian=Vejetarrn!
+Eat every type of fruit, vegetables, and any sort of plant matter=Eet all da fruut an veges
+
+When Pigs Used to Fly=Wen Pueg Used Tah Fly
+Craft a carrot on a stick so you can ride a pig off a cliff=MAEK SUM YUMMY FOOD ON STIK!
+
+You Lead, I'll Follow=U leed, me fullow!
+Craft a lead for forming a llama caravan=Maek a leesh for da camel sheep!
+
+
+
+# Mining tab as of 1.3
+Acquire Hardware=I can haz irun
+Smelt an iron ingot=Cook teh iruns
+
+Bling Bling Gone=Bling Bling Gun
+Completely use up a golden pickaxe, and then seriously reevaluate your life choices=Brake a Galdun Pikakse
+
+Coal Miner=Cole Mineh
+Mine a stack of coal=Mine a lot of cole cuz u were very nawty tis year!
+
+Fuel Engine=Fuuel Enjin
+Craft a powered minecart=Put a Hot Box in a Minecat
+
+Cover Me With Diamonds=Covr me wif diamondz
+Diamond armor saves lives=Deemond suit saves kitties' lives
+
+Diamond Clad=Deemond Cladz
+A full suit of diamond armor saves even more lives=Full Deemond suit savez moar lives
+
+Diamond Miner=MUCH MUNY $$$
+Mine a stack of diamonds. Good luck!=Mine Much Deemonds! Guud Luk!
+
+Diamonds!=AW MA GAWT, DEEMONDS!!!1
+Acquire diamonds=Get deemonds wif ur irun 2ls
+
+Electric Rails=PUWERD RAIL!
+Making furnace minecarts completely useless=Minecats wif Hot Boxes not useless!
+
+Enchanter=Ehncanter
+Craft an enchanting table=Craft an Inchant Tabl
+
+Even MOAR Tools=Evn MOAR 2ls!
+Craft a full diamond tools set=Craft all da Dimand 2ls!
+
+Fossil Fuel=Ur present:
+Coal! As in dead dinosaurs!=Get Cole 4 Krismess cuz u were nawty tis year!
+
+Getting an Upgrade=Lehveling Up
+Construct a better pickaxe=Maek a beder pikkatt
+
+Gold Miner=Guld Minr
+Mine a stack of gold ore=Mien lutz of Guld!
+
+Gold Rush=Guld Rush
+Strike gold and smelt it into a gold ingot=Strike Rockz wif Guld
+
+Hot Stuff=Hot Stuffz
+Fill a bucket with lava=Fil bucket wif lava plz?
+
+Ice Bucket Challenge=Ize Bucket Chalendz
+Form and mine a block of Obsidian=Ferm and mine blok of Obsidian
+
+Iron Man=I am Irun Man!
+Craft a full suit of iron armor=Craft all da iron man suit!
+
+Iron Miner=Irun Mineh
+Mine a stack of iron ore=Mien lutz of Irun!
+
+Isn't It Iron Pick=Oh isnt it iron pik
+Upgrade your pickaxe=Upgraid ur pikaxe
+
+Lapis Lazuli Miner=Blu Minar
+Mine enough lapis lazuli to craft a stack of lapis lazuli blocks=Mien lutz of blu stuffz
+
+Mineral Collection=Minral Collakshun
+Craft every type of mineral block=Craft all da shineh bloks!
+
+MOAR Tools=MOAR 2ls!
+Craft a stone pickaxe, axe, shovel and hoe=Craft a Ston spoon, Aks, Hoe, Pikkatt, and
+
+Aww it broke!=Oh Noes!
+Break your first tool=Brake ur 1st 2l
+
+On A Rail=Cat on Rail
+Craft a minecart using five iron ingots=Craft a Minecat & uze 5 irun inguts
+
+Redstone Miner=Redstoen Mineh
+Mine enough redstone to craft a stack of redstone blocks=Mien lutz of red ston!
+
+Mining=Mienin
+Dig underground, gather resources=Dig under da howse & get stuff
+
+Seeing Red=Seein Red
+Mine some redstone from the deepest caves=Dig Rocks wif Red Stown
+
+Suit Up=Suit up k?
+Protect yourself with a piece of iron armor=Defend urself wid a pic of iron man suit
+
+The way to spawn=Spinny thingo
+Craft a compass in case you forgot where spawn is=Maek a spinny thing and try to scratch it 4 hours
+
+DIAM- oh, wait, no.=DEEM - oh, wate, noo!
+It's still useful for enchanting=Dat blue stuff still guud 4 inchanting
+
+We Need to Go Deeper=We Ned 2 Go Deeper
+Build, light and enter a Nether Portal=make a magic Nether portl
+
+We've broken our last shovel=Weve brokn owr last spoon!
+Break all five types of shovels=Brake all da spoons!
+
+What's the time, Mr Wolf?=Wats da time, Mr Doggy?
+Time to clean your clocks! (Or, craft them!)=Time t cleen ur cluks! (Or, craft dem!)
+
+
+
+# Nether tab as of 1.3
+A Terrible Fortress=Terribl Fortrez
+Break your way into a Nether Fortress=Rush B I MEEN intu a Nether Fortress
+
+Basis of Brewing=Basis of Brwing
+Harvest some nether wart from a nether fortress=Harvist sum nether warz frum a Neder Fort
+
+Beaconator=Baconator 2000
+Bring a beacon to full power=Bring a bacon to full powah
+
+Bring Home the Beacon=Bring Hoem da Bacon
+Construct and place a Beacon=Konstrukt and plaic a Bacon
+
+Don't Step on it!=Da Floor is Lava!
+Mine some magma blocks=Watch out!
+
+Ender's Chest=Endur's Chest
+Craft an ender chest for some extra inventory space=Get some extra magic space 4 stuff
+
+Eye Spy=Aye Spai
+Follow an Ender Eye=Folow da eye tingy liek a LAZR POINTR
+
+Fire Blast Shield=Fier Blast Protecshun
+Block the explosion of a ghast's fireball=Blok da boom boom frum da Ghasts
+
+Giant Floating Jellyfish=Big Flowting Jelleh Nomz
+Shoot down a ghast=Bowz duwn a Ghast
+
+Glows in the Dark=Shinies in da Dark
+Craft spectral arrows using glowstone dust=Maek da Shineh Errows & uze Glowstone duzt
+
+High Temperature Fluid Monster=Hi Temprchur Fluud Monstah
+Kill a magma cube=Pounce on da Fier Sleim
+
+Into Fire=Intu Fire
+Relieve a Blaze of its rod=Releave a Blayz ov its rawd
+
+Limbo Walker=Limbow Wallkah
+Get above the roof in the nether=Get abuv da roof in da nether
+
+Local Brewery=Locul Brwry
+Craft a Brewing Stand for brewing potions=Craft a Bubbleh
+
+Quicksand=Quik Sand
+You sink like quicksand and move slow like mud=U sink liek Quik Sand & moov slow liek Mud
+
+Return to Sender=Return 2 Sendr
+Destroy a Ghast with its fireball=Destroi a Ghast wif a fyurbal
+
+Nether=Nether
+Bring summer clothes=It's gun be HOT
+
+Spooky Scary Skeleton=Spoopy Scury Skele-ton
+Obtain a wither skeleton's skull=Get a wiver skulton'z skul
+
+Subspace Bubble=Hiway thru Hell
+Use the Nether to travel 7km in the Overworld=Use teh Nether 2 travel 7km in da Overworld
+
+The End?=Da End?
+Enter the End Portal=Entr teh End Portel
+
+The Hunt Begins=Da Hunt Begins
+Kill a wither skeleton=Scratch a Spooke Wither Skeletun
+
+The Nether's Shield=Da Nether's Protekshun
+Block some blaze fireballs=Bluk sum Blaze fier bells
+
+The Tribal Snouts=AOS 2: Da Tribel Snoutz!
+Kill a zombie pigman=Pounce on an Oinkey Hooman
+
+Uneasy Alliance=Un-eZ Aliance
+Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it=Rescue Ghast frm teh Nether, bring it safly hom to da Overworld... and den kil it
+
+Withering Heights=WUThering Heights
+Summon the Wither=Summun da Wither
+
+
+
+# Potions tab as of 1.3
+A Furious Cocktail=Strange taistin' milk
+Have every potion effect applied at the same time=Hav evri potion efect applied at teh same tiem
+
+A Much More Doable Challenge=A eZ-er Challunge
+Get all the effects possible during your life (not all at the same time)=Get all da effcts possibel during ur 9 lives (not all at da same time)
+
+A Weak Brew=A week Brew
+Brew up a potion of Weakness=Brw up a Poshun 2 maek Fat Cat
+
+Death by Magic=Die by meh Magic!
+Kill a mob with a splash potion=Defeet a cat wif a spleshy poshun
+
+Hopping Mad=Bunny Cat!
+Get jump boost from a beacon or a potion=Jump mad from bacon or poshuns
+
+How did We Get Here?=Haw did we get 'here¿
+Have every effect applied at the same time=Hav evri effelt applyed at teh saem time
+
+Hyper-Healing=Time Lordz!
+Brew and drink a regeneration potion=Brw an drink a Poshun ov Rejenerashun
+
+Medic!=insta sheezburgerz!
+Brew a healing potion=Broo a Poshun ov Healin
+
+Marine Marauder=Mareen Marordah
+Catch a pufferfish and use it to brew a water breathing potion=Catch a very yukky fishy & use it 2 brw a Watr Breething Poshun
+
+Nocturnal=Cat Time!
+Brew and drink a night vision potion=Brw and drink a Cat Vishun Poshun
+
+Performance-Enhancing Drugs=Purr-4-mans Inhansing Drugs
+Brew a Speed Potion for cheating on athletics=Brw a sped poshun 4 cheeting at da Olympics
+
+Potions=Poshunz
+Brewing potions with helpful and hindering effects=Brw poshuns wif helpful & hindering effeks
+
+Stayin' Frosty=Steyin' Frosty
+Drink a fire resistance potion so you can go swimming in lava=Glug a Fire Rezistanse Poshun & go swim in Hot Sauce!
+
+Super Strength=Chuk Noris!
+Brew a Strength Potion for cheating on weightlifting=Brw a supa strength poshun & turn in2 Chuk Noris!
+
+The Invisible Player=U cant see meh
+Brew and drink an invisibility potion=Brew & Glug a Poshun ov Hiding
+
+Zombie Doctor=Zoombye Medic
+Cure a zombie villager=Maik zombee villagur weak an den cure it
+
+
+
+# Redstone tab as of 1.3
+Bling Plate=Guld Plate
+Dine in style! (No, not really)=Dine in styel!
+
+Comparing Comparator=Dis Doovalaky
+Craft a redstone comparator=Craft dis redstone doovalaky
+
+Dispense With This=Dizpnz Wif Dis
+Construct a dispenser=Construkt a Dispnzr
+
+Metal Plate=Irun Plate
+Dinner time!=Feed meh!
+
+Moving Parts=Pushur Parts
+Craft a piston so you can push things=Maek a Pushur
+
+Mozart=Keyboard Catz!
+Craft a note block=Craft a nowht blohk
+
+Observer Buddy=CREePY STaLKER DUDe
+Craft an observer=Craft da whatchimacallt
+
+Pressure Detector=Preshur Ditektar
+Use a pressure plate to craft a detector rail=Uze da preshur plate 2 maek da Deetakter Rail
+
+Quartz Miner=Kwortz Minah
+Mine enough nether quartz to craft a stack of quartz blocks=Mine a lut ov nether kwortz
+
+Quirky Quartz=Cloudz in da Nether
+Mine Nether Quartz from the Nether=Mine da Nether Cloudz in da Nether. Duh
+
+Repeating Repeater=Tis Thingy
+Craft a redstone repeater for delaying signals=Craft tis redstone thingy
+
+Redstone=Red stown
+Cracking contraptions=Janky jazzmabobs!
+
+Solar Power=Solur Powah
+Craft a daylight sensor=Maek a light eater
+
+Space Dropper=Space Drupper
+Craft a dropper for item transportation=Maek dat Drupper duvalackey
+
+Space Hopper=Space Huperr
+Craft a hopper for item transportation=Maek dat Huperr haskanatigo
+
+Sticky Parts=Stickeh Parts
+Craft a sticky piston so you can pull things=Maek a Stickeh Pushur
+
+Tripping Over=Where string cumz frum
+Craft a tripwire hook for your traps=Craft a string huk
+
+Troll Chest=TROLLOLOLOLLL!
+Craft a trapped chest to troll your friends=mAKE a rigged Cat Box
+
+Under Pressure=Undah Presar
+Craft a pressure plate=Maek a Prseure PLat
+
+
+
+# All advancements that get added in versions 1.4 or later will be added down here for easy locating by translators who wish to update their language file
+
+
+
+
+
