@@ -1,0 +1,1038 @@
+# BlazeandCave's Advancements Pack Language File
+ 
+# How to use: Name and descriptions of advancement to left of =, and put translation to right of =.
+# Some advancement titles make use of puns that would work in English but probably not in other languages. Be creative if you wish if you can find any puns in foreign languages.
+
+# This file will be updated with new advancements with each new update.
+# Currently the text that appears with reward functions are not translatable - support for translating the reward functions messages will come in a later update.
+
+# Language: Russian
+# Author: SoSeDiK
+# Pack version supported: 1.3.1
+
+# All language entries are organised in alphabetical order of file name as of 1.3
+# All new advancements added in updates later than 1.3 will be put at the bottom of the file for easy locating and adding by translators
+
+# Adventuring tab as of 1.3
+Adventuring Time=Время приключений
+Discover every biome=Исследуйте все доступные биомы
+
+Boaty McBoatface=Моряк
+Craft a boat for sailing on the high seas=Создайте лодку, чтобы уплыть в открытое море
+
+Hired Help=Три закона големотехники
+Summon an Iron Golem to help defend a village=Создайте железного голема для обороны деревни
+
+Cold Feet=Запах прохлады
+Discover every cold biome=Исследуйте все холодные биомы
+
+Disc Jockey=Диджей
+Collect all 12 music discs=Соберите все 12 музыкальных дисков
+
+Do You Want to Trade?=А не желаете ли поторговаться?
+Find an NPC village=Найдите деревню крестьян
+
+Dry Spell=Сушка
+Dry a sponge in a furnace=Высушите губку при помощи печи
+
+Filthy Rich=Неприлично богатый человек
+Make 64 emeralds=Добудьте 64 изумруда
+
+Filthy Stinkin' Rich=Повелитель крестьян
+Make 64 emerald blocks=Добудьте 64 изумрудных блока
+
+Flower Power=Цветочная сила
+Collect all types of flowers=Соберите все виды цветков
+
+Ghostbuster!=Охотник за призраками
+Bust a Vex summoned by an Evoker=Победите вредину, призванного заклинателем
+
+Grave Robber=Расхититель гробниц
+Enter a pyramid in a desert=Войдите в песчаную пирамиду
+
+Heeere's Johnny!=А вот и Джонни!
+Kill a Vindicator=Убейте поборника
+
+House of Psychos=Поместье психов
+Find a Woodland Mansion=Найдите лесной особняк
+
+I hereby dub thee...=И Я назову тебя...
+Obtain a name tag=Добудьте бирку
+
+Just Keep Swimming=Урок плавания
+Go for a swim=Просто продолжай плыть по течению
+
+Kilometre Walk=Километровая пробежка
+It's not that far in real life=Это не так уж и далеко в реальной жизни
+
+Laser Sharks!=Лазерные акулы!
+Defeat a Guardian=Убейте стражника
+
+Magic Book=В этой книге что-то есть
+Trade for an Enchanted Book=Выторгуйте чародейскую книгу
+
+Mapmaker=Картограф
+Craft or trade an empty map=Создайте или выторгуйте пустую карту
+
+Monumental=Забытый памятник глубин
+Find an Ocean Monument=Найдите подводную крепость
+
+Music To My Ears=Музыка для моих ушей
+Find a music disc=Найдите музыкальный диск
+
+One with the forest=Вызов природы
+Discover every forest biome=Исследуйте все лесные биомы
+
+Overgrown!=Заросшая местность!
+Discover every overgrown biome=Исследуйте все степовые биомы
+
+Overpowered=Максимальная энергия
+Obtain a Notch Apple=Заполучите яблоко Нотча
+
+Postmortal=Свет в конце тоннеля
+Use a Totem of Undying to cheat death=Воспользуйтесь тотемом бессмертия, чтобы перехитрить смерть
+
+Adventure=Приключения
+Adventure and exploration=Весёлое путешествие
+
+Snow Feet=Снежный человек
+Discover every snowy biome=Исследуйте все снежные биомы
+
+Spear Fishing=Большой улов
+Kill a Guardian with arrows=Убейте стражника при помощи лука и стрел
+
+Tarzan=Тарзан
+Swing (or climb) on some vines=Покачайтесь на лозе
+
+Ten Thousand Blocks=Десять тысяч блоков
+A journey that long begins with a single step=Путешествие, которое началось всего с одного шага
+
+The Deep End=Самое дно
+Defeat an Elder Guardian=Победите древнего стража
+
+The Shielding=Щитостроение
+A shield does no better than a locked door=Это слегка лучше, чем запертая дверь
+
+This is Mine Now!=Хитропопый шахтёр
+Find an abandoned mineshaft that was not dug out by you=Найдите заброшенную шахту
+
+Tomb Raider=Знаток джунглей
+Enter a jungle temple=Войдите в джунглевую крепость
+
+Treasure Map=Карта сокровищ
+Trade for an Explorer Map=Выторгуйте исследовательскую карту
+
+Voyage=Вояж
+A hundred kilometres!=Одна сотня километров!
+
+Warm Feet=С лёгким паром
+Discover every dry biome=Исследуйте все сухие биомы
+
+Wet Feet=Приятный бриз
+Discover every water biome=Исследуйте все водные биомы
+
+What a Deal!=Не отходя от кассы!
+Successfully trade with a Villager=Выторгуйте что-нибудь у крестьян
+
+Witchcraft=Ведьмы! Они реальны!
+Find a witch hut in a swamp=Найдите ведьмин дом в болотном биоме
+
+Wololo!=Абракадабра!
+Defeat an Evoker=Победите заклинателя
+
+
+
+# Building tab as of 1.3
+A Masterpiece!=Шедевр искусства
+Put up a painting=Подберите картину
+
+Ah, My Old Enemy...=Ах, мой старый враг...
+Craft every type of stairs=Создайте ступеньки всех видов
+
+Benchmarking=Рабочий стол
+Construct a crafting bench with four wooden planks=Соберите верстак из четырёх досок
+
+Bricks!=Кирпичи!
+Fire up that clay!=Подожги уже эту глину!
+
+Change of Sheets=Дизайнерское решение
+Dye your bed a different color than white=Перекрасьте кровать в цвет, отличающийся от белого
+
+Classy Glassy=Максимальная прозрачность
+Smelt sand in a furnace to get glass=Переплавьте песок в печи, чтобы получить стекло
+
+Clay-Dough!=Гончарное дело
+Dig up some clay from a lake=Добудьте немного глины в одной из водойм
+
+Concrete Evidence=Водная магия
+Create concrete from concrete powder by dropping it into water=Создайте бетон, разместив цемент в воде
+
+Creepers and Withers=Криперы и визеры
+Engrave sandstone with creeper and wither patterns=Выгравируйте песчаник с узорами крипера и визера
+
+Display your items for all to see...=Показать всему миру
+Craft an item frame for displaying your items=Создайте рамку для отображения предметов
+
+Electric!=Электризация!
+Light up the area with some redstone lamps=Осветите територию редстоуновыми фонарями
+
+En Garde=Садовая огорожа
+Erect some fencing=Разместите несколько заборчиков
+
+Expensive!=Дорогое удовольствие
+Light up the area with some sea lanterns=Осветите територию морскими фонарями
+
+Fake fortress=Фальшивая незеритовая крепость
+Craft or collect all forms of nether brick, red nether brick, and nether wart blocks=Создайте или соберите красный незеритовый кирпич, блок нароста из Незера и все формы незеритового кирпича
+
+Fake monument=Фальшивая подводная крепость
+Craft or collect all forms of prismarine blocks=Создайте или соберите все формы призмариновых блоков
+
+Fake stronghold=Фальшивая подземная крепость
+Craft or collect normal, cracked, mossy and chiseled stone bricks=Создайте или соберите все типы каменных кирпичей
+
+Fluorescent!=Люминисентность
+Light up the area with some end rods=Осветите територию стержнями Энда
+
+Getting Wood=Нарубить дров
+Attack a tree until a block of wood pops out=Бейте дерево топором, пока оно не сломается
+
+Glowing!=Сияние!
+Light up the area with glowstone=Осветите територию светокамнем
+
+Greek Art Decor=Греческая культура
+Craft quartz blocks, stairs, slabs, pillars and chiseled=Создайте кварцевый блок, плиту, ступеньки, колонну и резной кварцевый блок
+
+Halloween!=Хэллоуин!
+Light up the area with jack o'lanterns!=Осветите територию светильниками Джека
+
+It's a Sign!=Это табличка!
+Craft and place a sign=Создайте и поставьте табличку
+
+It's a Trap!=Это люк!
+Craft and place down a trapdoor=Создайте и поставьте люк
+
+Jailhouse Block=Тюремные окна
+Craft or find iron bars=Создайте или найдите железные прутья
+
+Ladder Climbers Inc.=Взберись повыше!
+Climb the ladder!=С уважением, Корпорация Лазания по Лестницам
+
+Mannequin=Манекен
+Craft an armor stand for displaying your armor=Создайте стойку для брони, чтобы красоваться ею
+
+Master Logger=Древесный мастер
+Cut down a full stack of logs of all types=Срубите по стаку каждого вида древесины
+
+Pathways=Помощь потерявшимся
+Use a shovel to create grass paths=Используйте лопату для создания тропинок
+
+Pot Planter=Горшковый плантатор
+Craft and place a flower pot=Создайте и поставьте цветочный горшок
+
+Rainbow Sand=Радужный песок
+Craft concrete powder using sand, gravel and dye=Создайте цемент, используя песок, гравий и краситель
+
+Raise the flag!=Поднимите флаг!
+Craft and place a banner=Создайте и поставьте флаг
+
+Rock Collection=Коллекция камушков
+Collect all the types of rocks=Соберите все виды камней
+
+Building=Строительство
+Your only limit is your imagination... and resources=Ваш единственный предел — Ваше воображение... и ресурсы
+
+Slabs For Days=По плите на каждый день
+Craft every type of slab=Создайте плиту каждого вида
+
+Stationary Storage=Стационарное хранилище
+Craft and place down a chest for storing your items=Создайте и поставьте сундук для хранения вещей
+
+Sweet dreams=Спи, моя радость, усни
+Change your respawn point=Измените точку возрождения
+
+The Glazed Terracotta Army=Искусство узоров
+Craft all 16 colors of glazed terracotta=Создайте все 16 глазурованных керамических блоков
+
+The Rainbow You Always Wanted=Радуга, о которой все мечтают
+Craft all 16 colors of concrete=Создайте все 16 видов цветного бетона
+
+The Terracotta Army=Керамическая армия
+Craft all 16 colors of terracotta (stained clay)=Создайте все 16 цветных керамических блоков
+
+The Walls=Надёжные стены
+Build some cobblestone walls=Постройте булыжную ограду
+
+Torched!=Зажжём!
+Light up the area with some torches=Осветите територию факелами
+
+Translucence=Просвечивание
+Craft all 16 colors of stained glass=Создайте все 16 цветных стёкл
+
+What a pane=Очень тонко и прозрачно
+Craft some glass panes=Создайте стеклянные панели
+
+Yay! I got my wood!=Ура! Дерево!
+Collect all six types of wood=Соберите все шесть видов древесины
+
+Your Door Was Locked=Ваша дверь была закрыта
+Craft a door to stop monsters from entering your house=Создайте дверь, чтобы монстры не пробрались в Ваш дом
+
+
+
+# Combat tab as of 1.3
+Blast Shield=Надёжная защита
+Survive a creeper's blast with your shield=Переживите взрыв крипера с помощью щита
+
+Bombs Away!=Взрывной привет
+Use gunpowder and sand to craft TNT=Используйте порох и песок для создания динамита
+
+Bow Spammer=Спамер
+Attack a mob by bow-spamming=Атакуйте моба при помощи быстрой стрельбы (без сильного натягивания тетивы)
+
+Creepy Heads=Криповые головы
+Blow up a creeper with a charged creeper to get a creeper head=Взорвите крипера заряженным крипером, чтобы получить его голову
+
+Dead Don't Die=Мёртвые не умирают
+Kill a zombie=Убейте зомби
+
+Desert Nomad=Пустынная аномалия
+Kill a husk=Убейте кадавра
+
+Dungeon Crawler=Любитель риска
+Defeat all kinds of mobs from special structures=Победите всех мобов, встречающихся в данжах
+
+Egging, Dude!=Эггинг, чувак!
+Vandalise something with eggs=Забросайте кого-нибудь яйцами
+
+Ender Worm=Эндер-червь
+Prevent an endermite from maturing=Предотвратите созревание эндермита
+
+Eskimo=Эскимос
+It may be illegal to hunt polar bears in real life, but not in Minecraft=Охотиться на белых медведей в реальной жизни незаконно, но это же Minecraft
+
+Ew Ew Ew!=Фу-фу-фу!
+Kill a spider=Убейте паука
+
+Fireworks Display=Спецэффекты
+Use gunpowder and paper to craft fireworks=Используйте порох и бумагу для создания фейерверков
+
+Frosty=Морозный парень
+Kill a stray=Убейте зимогора
+
+Gelatinous Cube=Желатиновый куб
+Kill a slime=Убейте слизня
+
+Hell Hunter=Незеритовый охотник
+Defeat all kinds of Nether mobs=Убейте всех мобов, обитающих в Незере
+
+Iron Belly=Железный желудок
+Stop starvation using rotten flesh=Остановите голод при помощи гнилой плоти
+
+Leader of the Pack=Вожак стаи
+Befriend a wolf=Приручите волка
+
+Keep Your Distance=Соблюдение дистанции
+Kill a Creeper with arrows=Убейте крипера при помощи лука и стрел
+
+Monster Hunter=Охотник на монстров
+Kill any hostile monster=Убейте враждебного моба
+
+Monsters Hunted=Успешная охота на монстров
+Kill one of every hostile monster=Убейте враждебного моба каждого вида
+
+Night Runner=Ночной бегун
+Defeat all kinds of Overworld night mobs=Убейте всех ночных монстров обычного мира
+
+Not Today, Thank You=Не дождётесь!
+Deflect an arrow with a shield=Отразите стрелу щитом
+
+Plane Walker=Межпространственная охота
+Kill endermen in all three dimensions=Убейте эндермена во всех трёх измерениях
+
+Point Blank=В упор
+Shoot a mob from point-blank range=Выстрелите в моба с очень близкого расстояния
+
+Poisonous Ew=Отравленное фу!
+Kill a cave spider=Убейте пещерного паука
+
+Combat=Сражение
+Battle against the monsters of this world=Свергните монстров этого мира
+
+Sniper Duel=Снайперская дуэль
+Kill a skeleton with an arrow from more than 50 meters=Застрелите скелета с расстояния более 50 метров
+
+Snowball Fight=Снежный бой
+The spirit of Christmas... quickly drowned out by a battle=Дух Рождества... быстро заглушенный битвой
+
+Spooky Skeleton=Страшный костяной дядя
+Kill a skeleton=Убейте скелета
+
+Spooky Skulls=Говорящие головы
+Blow up a skeleton with a charged creeper to get a skeleton skull=Взорвите скелета заряженным крипером, чтобы получить его череп
+
+Still Talking!=Слишком медленно ходишь
+Blow up a zombie with a charged creeper to get a zombie head=Взорвите зомби заряженным крипером, чтобы получить его голову
+
+Take Aim=Точно в цель
+Shoot something with a bow and arrow=Выстрелите в кого-нибудь из лука
+
+Taste of your own medicine=Собственный яд
+Kill a witch with a splash potion=Убейте ведьму взрывным зельем
+
+Tele-Morph=Телеморф
+Damage a mob by teleporting into it=Нанесите урон мобу, телепортировавшись в него
+
+Termite Control=Контроль над термитами
+Kill a silverfish=Убейте чешуйницу
+
+The ender of ender=Эндермен из Эндера
+Kill an enderman=Убейте эндермена
+
+The Ghastly Eyes=Призрачные глазки
+Kill an invisible spider=Убейте невидимого паука
+
+The Mighty Hunter=Выдающийся охотник
+Hunt all types of animals with your bow=Убейте животное каждого вида при помощи лука
+
+The Undead Cavalry=Мёртвая кавалерия
+Encounter and defeat a skeleton horse in a thunderstorm=Повстречайте и победите лошадь-скелета во время грозы
+
+There has to be another way...=Должен быть другой способ...
+Kill a zombie villager=Убейте зомби-крестьянина
+
+Trampoline=Батут
+Craft a slime block using slimeballs=Создать блок слизи, используя сгустки слизи
+
+Void Ender=Пустота
+Defeat all kinds of End mobs=Убить всех мобов, обитающих в Эндере
+
+What a creep!=Ну что за гримаса!
+Kill a creeper=Убить крипера
+
+Witch!=Ведьма!
+Kill a witch=Убить ведьму
+
+
+
+# Enchanting tab as of 1.3
+Armor for the masses=Броню в массы!
+Obtain every protection related enchantment=Заполучите каждое зачарование, касаемое защиты
+
+Bane of one-shotting spiders=Бич мгновенного убийства пауков
+Obtain Bane of Arthropods V=Зполучите зачарование «Бич членистоногих V»
+
+Bow down to me!=Поклонись мне!
+Obtain Power V=Заполучите зачарование «Сила V»
+
+Complete Enchanter=Повелитель заклинаний
+Obtain every enchantment throughout your enchanting career=Заполучите каждое зачарование, доступное в игре
+
+Curses!=Проклятие!
+Obtain both types of curses=Заполучите оба зачарования «Проклятие утраты»
+
+Fiery=Пламенный привет
+Obtain every fire related enchantment=Заполучите каждое зачарование, касаемое огня
+
+Fortunate Son=Дитя фортуны
+Obtain Fortune III=Заполучите зачарование «Удача III»
+
+Knocking Your Socks Off=Незваный гость
+Obtain Knockback and Punch enchantments=Заполучите зачарования «Отдача» и «Откидывание»
+
+Let It Go!=Иисус
+Obtain boots enchanted with Frost Walker=Заполучите ботинки с зачарованием «Ледоход»
+
+Librarian=Библиотекарь
+Build some bookshelves for your enchanting table=Добудьте книжную полку
+
+Like a Cat=Подобно коту
+Obtain boots enchanted with Feather Falling=Заполучите ботинки с зачарованием «Невесомость»
+
+Master Armorer=Одарённый кузнец
+Create a perfect suit of armor=Создайте идеальный комплект брони
+
+Master Enchanter=Опытный чародей
+Obtain every enchantment at their max level throughout your enchanting career=Заполучите каждое зачарование максимального уровня, доступное в игре
+
+Master Fisher=Закалённый рыбак
+Create a perfect fishing rod=Создайте идеальную удочку
+
+Master Knight=Неповторимый воин
+Create a perfect sword=Создайте идеальный меч
+
+Master Miner=Удостоенный шахтёр
+Create a perfect pickaxe=Создайте идеальную кирку
+
+Master Sniper=Талантливый лучник
+Create a perfect bow=Создайте идеальный лук
+
+Needle Sharp=Ёжик
+Obtain Sharpness V=Заполучите зачарование «Шипы V»
+
+Heavy Metal=Хэви-метал
+Craft an anvil=Создайте наковальню
+
+Overkill=Смертельный удар
+Deal eight hearts of damage in a single blow=Нанести восемь сердец урона одним ударом
+
+Pick Like Silk=Не кирка, а пёрышко
+Use a Silk Touch enchanted pickaxe to obtain diamond ore as a block=Используйте кирку с зачарованием «Шёлковое касание», чтобы добыть алмазную руду
+
+Enchanting=Чародейство
+Enchant items to give them magical abilities=Зачаровывайте предметы на чародейском столе, чтобы придать им особые свойства
+
+Scuba Gear=Костюм для дайвинга
+Obtain every water related enchantment=Заполучите каждое зачарование, касаемое воды
+
+Super Efficient=Суперэффективность
+Obtain Efficiency V=Заполучите зачарование «Эффективность V»
+
+Unbreakable=Неразрушимость
+Obtain Mending on an item=Заполучите зачарование «Починка»
+
+Undead Slayer=Истребитель мёртвых
+Obtain Smite V=Заполучите зачарование «Небесная кара V»
+
+
+
+# End tab as of 1.3
+Anti-Gravity Generator=Антигравитационный генератор
+Bring a shulker into the overworld and let it give you anti-gravity=Перенесите шалкера в обычный мир и получите эффект левитации
+
+Cow Jumped Over The Moon=Лунная корова
+Bring a cow from the Overworld to the End and then kill it=Переместите корову в измерение Энд и убейте её там
+
+Dragon Shield=Дракон нам не страшен
+Attempt to block the dragon's attacks=Попытайтесь отразить атаки дракона с помощью щита
+
+End Bricks!=Эндерняковые кирпичи!
+Craft end bricks from end stone=Создайте кирпичи из эндерняка
+
+For Mother, Clarence=Быть сильным
+Kill a shulker=Убейте шалкера
+
+Free the End=Освободите измерение Энд
+Good luck=Удачи!
+
+Getting Chorus=Плод хоруса
+Attack a chorus tree until it collapses=Бейте хорус, пока он не разрушится
+
+Great View From Up Here=Прекрасный вид!
+Levitate up a distance of 50 metres=Пролевитируйте вверх на 50 блоков
+
+I'm Coming Back, Murph!=Неизведанные земли
+Travel far into the End dimension=Пропутешествуйте очень далеко, находясь в измерении Энд
+
+No! Don't let me leave, Murph!=Космонавт
+Travel so far into the End dimension you might as well be on another planet=Зайдите настолько далеко, насколько можете
+
+Noxious Fumes=Вредные пары
+Use dragon's breath to brew a lingering potion=Используйте драконье дыхание для приготовления туманного зелья
+
+Off With His Head!=Заслуженный трофей
+Collect a dragon's head from the bow of an end ship=Похитьте голову дракона из коробля
+
+Poison Dart=Ядовитый дротик
+Craft tipped arrows of poison=Создайте отравленную стрелу
+
+Portable Storage=Портативное хранилище
+Use shulker shells to craft a shulker box=Используйте панцирь шалкера для создания шалкерового ящика
+
+Purpurfect!=Пурпуперность
+Craft or collect purpur blocks, slabs, pillars and stairs=Создайте или соберите пурпурный блок, плиту, ступеньки и пилон
+
+Remote Getaway=Идеальный побег
+Escape the island=Покиньте остров
+
+The End=Конец...
+Or the beginning?=...или начало?
+
+Shouldn't my shield levitate too?=Разве щит не должен левитировать?
+Block a Shulker's bullet with your shield=Отразите снаряд шалкера с помощью щита
+
+Sky High=К небесам
+Fly up beyond the world height limit=Преодолейте максимальную высоту мира
+
+Sky's the Limit=Где твои крылья?
+Find an Elytra=Найдите элитры
+
+Some Breakthrough=Большой прорыв
+Exhaust your elytra=Сломайте свои элитры
+
+The City at the End of the Game=Будь как дома, путник
+Go on in, what could happen?=Зайдите в город измерения Энд, ведь что тут может случиться?
+
+The End... Again=Дежавю
+Respawn the Ender Dragon=Возродите Эндер-дракона
+
+The Next Generation=Новое поколение
+Hold the Dragon Egg=Подберите яйцо дракона
+
+The Start of Something=Начало чего-то нового
+Craft your first ender crystal=Создайте первый кристалл Энда
+
+Uh, Houston? We have a problem=Хьюстон, у нас проблема
+Fly up to a ridiculous height=Заберитесь на неимоверную высоту
+
+You Need a Mint=Освежи дыхание
+Collect dragon's breath in a glass bottle=Соберите дыхание дракона в пузырёк
+
+
+
+# Farming tab as of 1.3
+24 Carrot Gold=Золотые зубы
+Eat a golden carrot=Съешьте золотую морковь
+
+A Balanced Diet=Робин-Бобин
+Eat everything that is edible, even if it's not good for you=Попробуйте всё съестное, даже если это не пойдёт Вам на пользу
+
+A Horse in Shining Armor=Лошадь в сияющих доспехах
+Find diamond horse armor=Найдите алмазную конскую броню
+
+A Seedy Place=Поле чудес
+Plant a seed and watch it grow=Посадите в землю зерно и дождитесь, пока оно вырастет
+
+Artificial Selection=Искусственный отбор
+Breed a horse and a donkey to get a mule=Скрестите лошадь и осла, чтобы получить мула
+
+Bake Bread=Хлеб насущный
+Grow wheat and use it to bake bread=Вырастите пшеницу и приготовьте хлеб
+
+Bapple!=Яблоко!
+Crunch into an apple=Просто съешь яблоко...
+
+Blistering Barnacles!=Неудачный день
+Get spat at by a llama=Пусть в Вас плюнет лама
+
+Breaking the Law of Conservation of Matter=Нарушение закона сохранения материи
+Craft 9 melon slices back into a block that, when broken, will probably not give you all 9 slices back=Создайте из 9 арбузов блок, который, будучи сломанным, вероятно, не даст Вам всех 9 арбузов назад
+
+Care For the Environment=Уход за окружающей средой
+Plant down a sapling=Посадите сажанец
+
+Catching Nemo=Поимка Немо
+Catch a clownfish=Словите рыбу-клоуна
+
+Chatterbox=Ручной болтун
+Tame a Parrot using seeds. WARNING: Do not use a cookie!=Приручите попугая, используя семена пшеницы. ПРЕДУПРЕЖДЕНИЕ: Не кормите его печеньем!
+
+Cow Tipper=Живодёр
+Harvest some leather=Добудьте немного кожи
+
+Cowboy=Ковбой
+Tame a horse by jumping on it over and over again=Приручите лошадь, седлая её снова и снова
+
+Delicious Fish=Вкусная рыба
+Craft a fishing rod and use it to catch a fish=Создайте удочку и используйте её для ловли рыбы
+
+Die, Potato!=Умри, мр. Картошка!
+Squash and eat a potato=Раздавите и съешьте картошку
+
+Do you want to build a snowman?=Снежный защитник
+Use a pumpkin and snow blocks to build a snow golem=Используйте тыкву и два снежных блока для постройки снеговика
+
+Ecologist=Эколог
+Plant down all six types of sapling=Посадите все шесть видов сажанцев
+
+Feeling Sheepish=Чувствую себя овцой
+You'll get over it=Вы справитесь с этим сами
+
+Getting Into a Stew=Тушёное дело
+Make and eat some rabbit stew=Создайте и съешьте тушёного кролика
+
+Have a Shearful Day=День стрижки
+Use two iron ingots to craft shears=Используйте два железных слитка для создания ножниц
+
+High Steaks=Очень нужные стейки
+The steaks are high for this advancement!=Стейки очень нужны для этого достижения!
+
+Hot Topic=Горячая штучка
+Construct a furnace out of eight stone blocks=Создайте печку из восьми булыжника
+
+Lion Tamer=Дрессировщик львов
+Tame an Ocelot using fish=Приручите оцелота при помощи рыбы
+
+Me Love Cookie=Я люблю печенье
+Bake some cookies... and then scoff them all yourself=Испеките несколько печенек... и затем съешьте их сами
+
+Meat Lovers=Мясной фанат
+Eat every type of meat, even if uncooked or rotten=Съешьте всё доступное мясо в игре, даже если оно сырое или это гнилая плоть
+
+Milk does your body good=Молоко очень полезно
+Take a swig swig swig swig=Возьми и пей, пей, пей!
+
+Mushroom, Mushroom, Mushroom, Mushroom!=Машрум, машрум, машрум, машрум!
+Slurp some mushroom stew=Испытайте на вкус грибной суп
+
+Naturally Carved=Готовимся к Хэллоуину
+Harvest some spooky pumpkins=Добудьте тыкву
+
+Not Today!=Не сегодня!
+Eat a poisonous potato=Съешьте ядовитый картофель
+
+Overpopulation=Счастливый фермер
+Breed every type of animal=Вырастите животное каждого вида!
+
+Pork Chop=Свиная отбивная
+You know kung fu, how about pork chop?=Ты знаешь кунг-фу, но как насчёт свиной отбивной?
+
+Rabbit Season=Сезон охоты на кроликов
+Killing bunnies is cruel. Period.=Убивать кроликов — это жестоко. Временами.
+
+Rainbow Collection=Радужная коллекция
+Gather all 16 colors of wool=Соберите все 16 цветов шерсти
+
+Renewable Energy=Возобновляемая энергия
+Smelt wood trunks using charcoal to make more charcoal=Переплавить древесину при помощи древесного угля для получения древесного угля
+
+Repopulation=Репопуляция 
+Breed two cows with wheat=Размножьте двух коров с помощью пшеницы
+
+Farming=Сельское хозяйство
+The world is full of friends and food=Мир друзей, добра и еды
+
+Salmonella Poisoning=Вера в лучшее
+Eat some raw salmon... and not get poisoned after all=Съешьте сырого лосося и не отравитесь при этом
+
+Serious Dedication=Терпение и труд
+Completely use up a diamond hoe, and then reevaluate your life choices=Используйте алмазную мотыгу, пока она не сломается, а потом попробуйте переосмыслить свою жизнь
+
+So Good=Вкуснятина!
+Can't beat it, can't beat it=Съешьте это! Что? Не знаю.
+
+Souperman=СУПермен
+Beetroot soup gives you souperpowers!=Свекольный суп придаст Вам СУПерсил!
+
+Sugar, Sugar=Сахар, сахар
+Harvest some sugar cane from a river or ocean=Соберите немного тростника около водоймы
+
+Sushi=Суши
+Eat some raw fish=Съешьте сырую рыбу
+
+The Lie=Это Ложь
+Wheat, sugar, milk and eggs!=Пшеница, сахар, молоко и яйца!
+
+The Melon! The Melon! The Melon!=Арбуз! Арбуз! Арбузик!
+Eat a melon. Be careful not to drop it over a cliff=Испытайте чудесный вкус арбуза
+
+The Pie=Пирог
+Bake a pumpkin pie=Приготовьте тыквенный пирог
+
+Trimming the Treetops=Обрезание верхушек
+Use shears to obtain leaf blocks=Добудьте листву
+
+Ultra Hardcore=Ультрасложность
+Craft and eat a normal golden apple=Создайте и съешьте золотое яблоко
+
+Vegetarian=Вегетарианство
+Eat every type of fruit, vegetables, and any sort of plant matter=Съешьте каждый вид фруктов, овощей и любых растений
+
+When Pigs Used to Fly=Жаль, что свиньи не летают...
+Craft a carrot on a stick so you can ride a pig off a cliff=Оседлайте свинью с помощью седла, а затем, будучи верхом на ней, упадите с высоты не менее, чем 5 блоков
+
+You Lead, I'll Follow=Ты ведёшь, а Я следую
+Craft a lead for forming a llama caravan=Создайте поводок, чтобы сформировать караван из лам
+
+
+
+# Mining tab as of 1.3
+Acquire Hardware=Куй железо пока...
+Smelt an iron ingot=Переплавьте в печи железную руду в железный слиток
+
+Bling Bling Gone=Бац!.. Буц!.. Всё.
+Completely use up a golden pickaxe, and then seriously reevaluate your life choices=Используйте золотую кирку, пока она не сломается, а затем подумайте над тем, что Вы сделали
+
+Coal Miner=Угледобытчик
+Mine a stack of coal=Добудьте стак угля
+
+Fuel Engine=Топливный двигатель
+Craft a powered minecart=Создайте самоходную вагонетку
+
+Cover Me With Diamonds=Осыпь меня алмазами
+Diamond armor saves lives=Алмазная броня спасает жизни
+
+Diamond Clad=Бриллиантовый костюм
+A full suit of diamond armor saves even more lives=Полный комплект алмазной брони спасает даже больше жизней
+
+Diamond Miner=Алмазная лихорадка
+Mine a stack of diamonds. Good luck!=Добудьте стак алмазов. Удачи!
+
+Diamonds!=Алмазы!
+Acquire diamonds=Добудьте алмазы
+
+Electric Rails=Энергорельсы
+Making furnace minecarts completely useless=Делаем самоходные вагонетки бесполезными
+
+Enchanter=Заклинатель
+Craft an enchanting table=Используйте 1 книгу, 4 обсидиана и 2 алмаза, чтобы собрать чародейский стол
+
+Even MOAR Tools=ЕЩЁ БОЛЬШЕ инструментов
+Craft a full diamond tools set=Создайте полный алмазный комплект инструментов
+
+Fossil Fuel=Окаменелое топливо
+Coal! As in dead dinosaurs!=Уголь! Остатки мёртвых динозавров.
+
+Getting an Upgrade=Обновка!
+Construct a better pickaxe=Сделайте кирку попрочней
+
+Gold Miner=Золотая лихорадка
+Mine a stack of gold ore=Добудьте стак золотой руды
+
+Gold Rush=Мое золотце
+Strike gold and smelt it into a gold ingot=Выплавьте золотой слиток
+
+Hot Stuff=Точка кипения
+Fill a bucket with lava=Наполните ведро лавой
+
+Ice Bucket Challenge=Две стихии
+Form and mine a block of Obsidian=Сформируйте и добудьте блок обсидиана
+
+Iron Man=Дресс-код
+Craft a full suit of iron armor=Защитите себя железной бронёй
+
+Iron Miner=Железодобытчик
+Mine a stack of iron ore=Добудьте стак железной руды
+
+Isn't It Iron Pick=И кирка без дела ржавеет
+Upgrade your pickaxe=Обновите свою кирку
+
+Lapis Lazuli Miner=Помешанность на чарах
+Mine enough lapis lazuli to craft a stack of lapis lazuli blocks=Добудьте достаточно лазурита, чтобы создать стак лазуритовых блоков
+
+Mineral Collection=Коллекция минералов
+Craft every type of mineral block=Создайте блок из каждого типа сокровищ
+
+MOAR Tools=БОЛЬШЕ инструментов
+Craft a stone pickaxe, axe, shovel and hoe=Создайте каменную кирку, топор, лопату и мотыгу
+
+Aww it broke!=Упс... Сломался!
+Break your first tool=Сломайте первый инструмент
+
+On A Rail=В путь!
+Craft a minecart using five iron ingots=Создайте вагонетку, используя пять железных слитков
+
+Redstone Miner=Сила редстоуна
+Mine enough redstone to craft a stack of redstone blocks=Добудьте достаточно редстоуна, чтобы создать стак блоков редстоуна
+
+Mining=Шахтёрское ремесло
+Dig underground, gather resources=Копай шахты, добывай ресурсы
+
+Seeing Red=Красное сияние
+Mine some redstone from the deepest caves=Добудьте редстоун из самых глубоких пещер
+
+Suit Up=Железный человек
+Protect yourself with a piece of iron armor=Создайте вещь из комплекта железной брони
+
+The way to spawn=Дорога к спавну
+Craft a compass in case you forgot where spawn is=Создайте компас на тот случай, если Вы потерялись
+
+DIAM- oh, wait, no.=АЛМА- ой, постой, нет, не он...
+It's still useful for enchanting=Ну... Он всё ещё пригоден для зачарований.
+
+We Need to Go Deeper=Огненные недра
+Build, light and enter a Nether Portal=Постройте, зажгите и войдите в портал в измерение Незер
+
+We've broken our last shovel=Мы сломали последнюю лопату
+Break all five types of shovels=Сломайте все пять видов лопат
+
+What's the time, Mr Wolf?=Какое сейчас время?
+Time to clean your clocks! (Or, craft them!)=Время создать часы!
+
+
+
+# Nether tab as of 1.3
+A Terrible Fortress=Чертоги страха
+Break your way into a Nether Fortress=Ворвитесь в незеритовую крепость
+
+Basis of Brewing=Основы зельеварения
+Harvest some nether wart from a nether fortress=Добудьте немного нароста из Незера
+
+Beaconator=Маяковский
+Bring a beacon to full power=Доведите маяк до полной мощности
+
+Bring Home the Beacon=Желанный свет
+Construct and place a Beacon=Постройте и установите маяк
+
+Don't Step on it!=Не становись на это!
+Mine some magma blocks=Добудьте немного магмовых блоков
+
+Ender's Chest=Эндер-сундук
+Craft an ender chest for some extra inventory space=Создайте эндер-сундук, чтобы... Сами придумайте применение.
+
+Eye Spy=Недреманное око
+Follow an Ender Eye=Следуйте за оком Эндера
+
+Fire Blast Shield=Не в этот раз, не в этом измерении!
+Block the explosion of a ghast's fireball=Отразите огненный шар гаста
+
+Giant Floating Jellyfish=Гигантская летающая медуза
+Shoot down a ghast=Убейте гаста
+
+Glows in the Dark=Подсветка
+Craft spectral arrows using glowstone dust=Создайте спектральные стрелы, используя светокаменную пыль
+
+High Temperature Fluid Monster=Высокотемпературный жидкий монстр
+Kill a magma cube=Убейте магмовый куб
+
+Into Fire=В полымя
+Relieve a Blaze of its rod=Добудьте огненный стержень
+
+Limbo Walker=Игрок в лимбо
+Get above the roof in the nether=Проберитесь сквозь потолок Незера
+
+Local Brewery=Местный зельевар
+Craft a Brewing Stand for brewing potions=Создайте зельеварку для приготовления зелий
+
+Quicksand=Ненасытные души
+You sink like quicksand and move slow like mud=Вы проваливаетесь в него и двигаетесь, словно в грязи
+
+Return to Sender=Вернуть отправителю
+Destroy a Ghast with its fireball=Убейте гаста его же огненным шаром
+
+Nether=Незер
+Bring summer clothes=Захватите летнюю одежду
+
+Spooky Scary Skeleton=Бедный Йорик!
+Obtain a wither skeleton's skull=Добудьте череп визер-скелета
+
+Subspace Bubble=Кротовая нора
+Use the Nether to travel 7km in the Overworld=Воспользуйтесь Незером, чтобы переместиться на 7км в обычном мире
+
+The End?=Конец?
+Enter the End Portal=Прыгните в портал Энда
+
+The Hunt Begins=Охота только начинается
+Kill a wither skeleton=Убейте визер-скелета
+
+The Nether's Shield=Особая защита
+Block some blaze fireballs=Отразите огненные снаряды всполоха с помощью щита
+
+The Tribal Snouts=Отвратительные твари
+Kill a zombie pigman=Убейте свинозомби
+
+Uneasy Alliance=Война миров
+Rescue a Ghast from the Nether, bring it safely home to the Overworld... and then kill it=Заманите гаста в обычный мир... а затем убейте его.
+
+Withering Heights=Чудо-юдо
+Summon the Wither=Призовите Визера
+
+
+
+# Potions tab as of 1.3
+A Furious Cocktail=Энергетический коктейль
+Have every potion effect applied at the same time=Испытайте эффекты всех возможных зелий одновременно
+
+A Much More Doable Challenge=Очередной вызов
+Get all the effects possible during your life (not all at the same time)=Испытайте единожды каждый эффект зелья
+
+A Weak Brew=Слабый напиток
+Brew up a potion of Weakness=Приготовьте зелье слабости
+
+Death by Magic=Смерть от магии
+Kill a mob with a splash potion=Убейте моба взрывным зельем
+
+Hopping Mad=Безумная ярость
+Get jump boost from a beacon or a potion=Повысьте высоту прижка при помощи зелья или маяка
+
+How did We Get Here?=Невозможное возможно!
+Have every effect applied at the same time=Испытайте все возможные эффекты одновременно
+
+Hyper-Healing=Исцеление
+Brew and drink a regeneration potion=Приготовьте и выпейте зелье регенерации
+
+Medic!=Медицина рулит
+Brew a healing potion=Приготовьте зелье исцеления
+
+Marine Marauder=Морской мародёр
+Catch a pufferfish and use it to brew a water breathing potion=Словите иглобрюха и приготовьте зелье водного дыхания
+
+Nocturnal=Невероятное зрение
+Brew and drink a night vision potion=Приготовьте и выпейте зелье ночного зрения
+
+Performance-Enhancing Drugs=Допинг
+Brew a Speed Potion for cheating on athletics=Приготовьте зелье скорости, чтобы схитрить на соревнованиях
+
+Potions=Зельеварение
+Brewing potions with helpful and hindering effects=Приготовление зелий с полезными и не очень эффектами
+
+Stayin' Frosty=Оставаться замороженным
+Drink a fire resistance potion so you can go swimming in lava=Выпейте зелье огнестойкости, чтобы поплавать в лаве
+
+Super Strength=Двойной допинг
+Brew a Strength Potion for cheating on weightlifting=Приготовьте зелье силы, чтобы стать ещё сильнее!
+
+The Invisible Player=Призрачный дух
+Brew and drink an invisibility potion=Приготовьте и выпейте зелье невидимости
+
+Zombie Doctor=Доктор для зомби
+Cure a zombie villager=Ослабьте и исцелите зомби-крестьянина
+
+
+
+# Redstone tab as of 1.3
+Bling Plate=Сверкающая пластина
+Dine in style! (No, not really)=Сверкай со стилем! (нет, на самом деле нет, вовсе нет)
+
+Comparing Comparator=Компаратор
+Craft a redstone comparator=Создайте редстоуновый компаратор
+
+Dispense With This=Раздатчик
+Construct a dispenser=Создайте раздатчик
+
+Metal Plate=Большегрузная весовая пластина
+Dinner time!=Время ужинать!
+
+Moving Parts=Двигающиеся штуки
+Craft a piston so you can push things=Создайте поршень, чтобы двигать блоки
+
+Mozart=Моцарт
+Craft a note block=Создайте нотный блок
+
+Observer Buddy=Наблюдатель
+Craft an observer=Создайте наблюдатель
+
+Pressure Detector=Рельсы с датчиком
+Use a pressure plate to craft a detector rail=Создайте рельсы с датчиком
+
+Quartz Miner=Кварцевый бум
+Mine enough nether quartz to craft a stack of quartz blocks=Добудьте достаточно кварца, чтобы создать стак кварцевых блоков
+
+Quirky Quartz=Причудливый кварц
+Mine Nether Quartz from the Nether=Добудьте кварц в Незере
+
+Repeating Repeater=Повторение — мать учения
+Craft a redstone repeater for delaying signals=Создайте повторитель
+
+Redstone=Редстоун
+Cracking contraptions=Технология будущего
+
+Solar Power=Солнечная сила
+Craft a daylight sensor=Создайте датчик дневного света
+
+Space Dropper=Выброси это!
+Craft a dropper for item transportation=Создайте выбрасыватель
+
+Space Hopper=Воронка
+Craft a hopper for item transportation=Создайте воронку для транспортировки вещей
+
+Sticky Parts=Липкий поршень
+Craft a sticky piston so you can pull things=Создайте липкий поршень
+
+Tripping Over=Спотыкаясь снова и снова
+Craft a tripwire hook for your traps=Создайте крюк для Ваших ловушек
+
+Troll Chest=Сундук-ловушка
+Craft a trapped chest to troll your friends=Создайте сундук-ловушку
+
+Under Pressure=Под давлением
+Craft a pressure plate=Создайте нажимную плиту
+
+
+
+# All advancements that get added in versions 1.4 or later will be added down here for easy locating by translators who wish to update their language file
+
+
+
+
+
